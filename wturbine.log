@@ -1,0 +1,1721 @@
+2021-10-08 15:26:34,517 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-08 15:26:34,519 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-08 15:26:34,521 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-08 15:26:34,636 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-08 15:26:34,637 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-08 15:26:34,641 - root - INFO - WindTurbine Data Producer is now started
+2021-10-08 15:26:34,646 - root - INFO - 0 records sent to server
+2021-10-08 15:26:39,659 - root - INFO - 0 records sent to server
+2021-10-08 15:26:44,680 - root - INFO - 0 records sent to server
+2021-10-08 15:26:49,687 - root - INFO - 0 records sent to server
+2021-10-08 15:26:54,690 - root - INFO - 0 records sent to server
+2021-10-08 15:26:59,426 - root - ERROR - Program is terminated by user
+2021-10-08 15:26:59,427 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-08 15:26:59,428 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-08 15:28:51,142 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-08 15:28:51,143 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-08 15:28:51,145 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-08 15:28:51,255 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-08 15:28:51,256 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-08 15:28:51,260 - root - INFO - WindTurbine Data Producer is now started
+2021-10-08 15:28:51,265 - root - INFO - 0 records sent to server
+2021-10-08 15:28:56,279 - root - INFO - 0 records sent to server
+2021-10-08 15:28:59,285 - root - ERROR - Program is terminated by user
+2021-10-08 15:28:59,286 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-08 15:28:59,287 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-08 15:29:54,892 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-08 15:29:54,893 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-08 15:29:54,895 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-08 15:29:55,000 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-08 15:29:55,001 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-08 15:29:55,005 - root - INFO - WindTurbine Data Producer is now started
+2021-10-08 15:29:55,011 - root - INFO - 0 records sent to server
+2021-10-08 15:30:00,025 - root - INFO - 0 records sent to server
+2021-10-08 15:30:02,525 - root - ERROR - Program is terminated by user
+2021-10-08 15:30:02,526 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-08 15:30:02,527 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-08 15:30:30,018 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-08 15:30:30,020 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-08 15:30:30,021 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-08 15:30:30,127 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-08 15:30:30,128 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-08 15:30:30,131 - root - INFO - WindTurbine Data Producer is now started
+2021-10-08 15:30:30,136 - root - INFO - 0 records sent to server
+2021-10-08 15:30:31,285 - root - ERROR - Program is terminated by user
+2021-10-08 15:30:31,286 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-08 15:30:31,287 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-08 15:30:31,289 - root - INFO - sssssssssssssss
+2021-10-08 15:30:31,290 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-08 15:30:44,085 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-08 15:30:44,086 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-08 15:30:44,088 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-08 15:30:44,204 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-08 15:30:44,205 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-08 15:30:44,209 - root - INFO - WindTurbine Data Producer is now started
+2021-10-08 15:30:44,213 - root - INFO - 0 records sent to server
+2021-10-08 15:30:45,548 - root - ERROR - Program is terminated by user
+2021-10-08 15:30:45,549 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-08 15:30:45,550 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-08 15:30:45,555 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-08 15:30:45,556 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-08 15:37:17,101 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-08 15:37:17,102 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-08 15:37:17,104 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-08 15:37:17,214 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-08 15:37:17,215 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-08 15:37:17,219 - root - INFO - WindTurbine Data Producer is now started
+2021-10-08 15:37:17,225 - root - INFO - 0 records sent to server
+2021-10-08 15:37:22,234 - root - INFO - 0 records sent to server
+2021-10-08 15:37:27,244 - root - INFO - 0 records sent to server
+2021-10-08 15:37:32,257 - root - INFO - 0 records sent to server
+2021-10-08 15:37:37,267 - root - INFO - 0 records sent to server
+2021-10-08 15:37:42,281 - root - INFO - 0 records sent to server
+2021-10-08 15:37:47,287 - root - INFO - 0 records sent to server
+2021-10-08 15:37:51,497 - root - ERROR - Program is terminated by user
+2021-10-08 15:37:51,497 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-08 15:37:51,498 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-08 15:37:51,501 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-08 15:37:51,504 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-08 15:38:31,061 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-08 15:38:31,062 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-08 15:38:31,063 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-08 15:38:31,177 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-08 15:38:31,178 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-08 15:38:31,181 - root - INFO - WindTurbine Data Producer is now started
+2021-10-08 15:38:31,186 - root - INFO - 0 records sent to server
+2021-10-08 15:38:36,198 - root - INFO - 0 records sent to server
+2021-10-08 15:38:41,219 - root - INFO - 0 records sent to server
+2021-10-08 15:38:43,831 - root - ERROR - Program is terminated by user
+2021-10-08 15:38:43,833 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-08 15:38:43,835 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-08 15:38:43,842 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-08 15:38:43,844 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-08 15:39:43,475 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-08 15:39:43,477 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-08 15:39:43,478 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-08 15:39:43,585 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-08 15:39:43,586 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-08 15:39:43,590 - root - INFO - WindTurbine Data Producer is now started
+2021-10-08 15:39:43,595 - root - INFO - 0 records sent to server
+2021-10-08 15:39:48,614 - root - INFO - 0 records sent to server
+2021-10-08 15:39:51,209 - root - ERROR - Program is terminated by user
+2021-10-08 15:39:51,210 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-08 15:39:51,212 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-08 15:39:51,215 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-08 15:39:51,220 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-08 15:40:48,291 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-08 15:40:48,293 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-08 15:40:48,294 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-08 15:40:48,411 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-08 15:40:48,412 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-08 15:40:48,416 - root - INFO - WindTurbine Data Producer is now started
+2021-10-08 15:40:48,420 - root - INFO - 0 records sent to server
+2021-10-08 15:40:53,442 - root - INFO - 0 records sent to server
+2021-10-08 15:40:58,447 - root - INFO - 0 records sent to server
+2021-10-08 15:41:03,463 - root - INFO - 0 records sent to server
+2021-10-08 15:41:08,479 - root - INFO - 0 records sent to server
+2021-10-08 15:41:09,563 - root - ERROR - Program is terminated by user
+2021-10-08 15:41:09,564 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-08 15:41:09,565 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-08 15:41:09,567 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-08 15:41:09,568 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-08 15:44:10,956 - root - ERROR - Error in Reading from Config File app-config.properties, program is terminated !!!
+2021-10-08 15:44:31,027 - root - INFO - Timer Task for Updating Last ID every 5 minutes is started
+2021-10-08 15:44:31,030 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-08 15:44:31,032 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-08 15:44:31,033 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-08 15:44:31,150 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-08 15:44:31,151 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-08 15:44:31,155 - root - INFO - WindTurbine Data Producer is now started
+2021-10-08 15:44:31,161 - root - INFO - 0 records sent to server
+2021-10-08 15:44:36,040 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-08 15:44:36,178 - root - INFO - 0 records sent to server
+2021-10-08 15:44:41,187 - root - INFO - 0 records sent to server
+2021-10-08 15:44:46,206 - root - INFO - 0 records sent to server
+2021-10-08 15:44:51,218 - root - INFO - 0 records sent to server
+2021-10-08 15:44:56,234 - root - INFO - 0 records sent to server
+2021-10-08 15:44:57,974 - root - ERROR - Program is terminated by user
+2021-10-08 15:44:57,974 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-08 15:44:57,975 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-08 15:44:57,977 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-08 15:44:57,978 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 22:52:23,271 - root - INFO - WindTurbine Data Producer is started
+2021-10-09 22:52:23,355 - root - INFO - Timer Task for Updating Last ID every 5 minutes is started
+2021-10-09 22:52:23,358 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-09 22:52:23,359 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-09 22:52:23,360 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-09 22:52:23,472 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-09 22:52:23,474 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-09 22:52:23,596 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: connecting to DESKTOP-1I1RL2C:9092 [('fe80::5043:6023:8cca:b822', 9092, 0, 43) IPv6]
+2021-10-09 22:52:23,597 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Connection complete.
+2021-10-09 22:52:23,599 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-09 22:52:23,865 - root - INFO - 1006 records sent to server
+2021-10-09 22:52:28,366 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 22:52:28,898 - root - INFO - 0 records sent to server
+2021-10-09 22:52:33,914 - root - INFO - 0 records sent to server
+2021-10-09 22:52:38,929 - root - INFO - 0 records sent to server
+2021-10-09 22:52:43,940 - root - INFO - 0 records sent to server
+2021-10-09 22:52:48,955 - root - INFO - 0 records sent to server
+2021-10-09 22:52:53,971 - root - INFO - 0 records sent to server
+2021-10-09 22:52:58,990 - root - INFO - 0 records sent to server
+2021-10-09 22:53:04,010 - root - INFO - 0 records sent to server
+2021-10-09 22:53:09,019 - root - INFO - 0 records sent to server
+2021-10-09 22:53:14,035 - root - INFO - 0 records sent to server
+2021-10-09 22:53:19,043 - root - INFO - 0 records sent to server
+2021-10-09 22:53:24,058 - root - INFO - 0 records sent to server
+2021-10-09 22:53:29,072 - root - INFO - 0 records sent to server
+2021-10-09 22:53:34,083 - root - INFO - 0 records sent to server
+2021-10-09 22:53:39,098 - root - INFO - 0 records sent to server
+2021-10-09 22:53:44,115 - root - INFO - 0 records sent to server
+2021-10-09 22:53:49,131 - root - INFO - 0 records sent to server
+2021-10-09 22:53:54,156 - root - INFO - 0 records sent to server
+2021-10-09 22:53:59,179 - root - INFO - 0 records sent to server
+2021-10-09 22:54:04,190 - root - INFO - 0 records sent to server
+2021-10-09 22:54:09,207 - root - INFO - 0 records sent to server
+2021-10-09 22:54:14,221 - root - INFO - 0 records sent to server
+2021-10-09 22:54:19,226 - root - INFO - 0 records sent to server
+2021-10-09 22:54:24,237 - root - INFO - 0 records sent to server
+2021-10-09 22:54:29,248 - root - INFO - 0 records sent to server
+2021-10-09 22:54:34,259 - root - INFO - 0 records sent to server
+2021-10-09 22:54:39,283 - root - INFO - 0 records sent to server
+2021-10-09 22:54:44,290 - root - INFO - 0 records sent to server
+2021-10-09 22:54:49,298 - root - INFO - 0 records sent to server
+2021-10-09 22:54:54,316 - root - INFO - 0 records sent to server
+2021-10-09 22:54:59,323 - root - INFO - 0 records sent to server
+2021-10-09 22:55:04,341 - root - INFO - 0 records sent to server
+2021-10-09 22:55:09,355 - root - INFO - 0 records sent to server
+2021-10-09 22:55:14,376 - root - INFO - 0 records sent to server
+2021-10-09 22:55:17,675 - root - ERROR - Program is terminated by user
+2021-10-09 22:55:17,676 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-09 22:55:17,677 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-09 22:55:17,679 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connected> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Closing connection. 
+2021-10-09 22:55:17,683 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 22:55:22,045 - root - INFO - WindTurbine Data Producer is started
+2021-10-09 22:55:22,125 - root - INFO - Timer Task for Updating Last ID every 5 minutes is started
+2021-10-09 22:55:22,128 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-09 22:55:22,130 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-09 22:55:22,131 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-09 22:55:22,239 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-09 22:55:22,240 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-09 22:55:22,327 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: connecting to DESKTOP-1I1RL2C:9092 [('fe80::5043:6023:8cca:b822', 9092, 0, 43) IPv6]
+2021-10-09 22:55:22,329 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Connection complete.
+2021-10-09 22:55:22,330 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-09 22:55:23,010 - root - INFO - 1006 records sent to server
+2021-10-09 22:55:27,127 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 22:55:28,045 - root - INFO - 0 records sent to server
+2021-10-09 22:55:33,060 - root - INFO - 0 records sent to server
+2021-10-09 22:55:38,085 - root - INFO - 0 records sent to server
+2021-10-09 22:55:43,094 - root - INFO - 0 records sent to server
+2021-10-09 22:55:48,108 - root - INFO - 0 records sent to server
+2021-10-09 22:55:53,118 - root - INFO - 0 records sent to server
+2021-10-09 22:55:58,138 - root - INFO - 0 records sent to server
+2021-10-09 22:56:03,154 - root - INFO - 0 records sent to server
+2021-10-09 22:56:08,172 - root - INFO - 0 records sent to server
+2021-10-09 22:56:13,184 - root - INFO - 0 records sent to server
+2021-10-09 22:56:18,204 - root - INFO - 0 records sent to server
+2021-10-09 22:56:23,222 - root - INFO - 0 records sent to server
+2021-10-09 22:56:28,233 - root - INFO - 0 records sent to server
+2021-10-09 22:56:33,239 - root - INFO - 0 records sent to server
+2021-10-09 22:56:38,254 - root - INFO - 0 records sent to server
+2021-10-09 22:56:43,272 - root - INFO - 0 records sent to server
+2021-10-09 22:56:48,296 - root - INFO - 0 records sent to server
+2021-10-09 22:56:53,314 - root - INFO - 0 records sent to server
+2021-10-09 22:56:58,335 - root - INFO - 0 records sent to server
+2021-10-09 22:57:03,355 - root - INFO - 0 records sent to server
+2021-10-09 22:57:08,368 - root - INFO - 0 records sent to server
+2021-10-09 22:57:13,389 - root - INFO - 0 records sent to server
+2021-10-09 22:57:18,395 - root - INFO - 0 records sent to server
+2021-10-09 22:57:23,400 - root - INFO - 0 records sent to server
+2021-10-09 22:57:28,419 - root - INFO - 0 records sent to server
+2021-10-09 22:57:33,441 - root - INFO - 0 records sent to server
+2021-10-09 22:57:38,460 - root - INFO - 0 records sent to server
+2021-10-09 22:57:43,467 - root - INFO - 0 records sent to server
+2021-10-09 22:57:48,474 - root - INFO - 0 records sent to server
+2021-10-09 22:57:53,495 - root - INFO - 0 records sent to server
+2021-10-09 22:57:58,508 - root - INFO - 0 records sent to server
+2021-10-09 22:58:03,511 - root - INFO - 0 records sent to server
+2021-10-09 22:58:08,531 - root - INFO - 0 records sent to server
+2021-10-09 22:58:13,543 - root - INFO - 0 records sent to server
+2021-10-09 22:58:18,555 - root - INFO - 0 records sent to server
+2021-10-09 22:58:23,565 - root - INFO - 0 records sent to server
+2021-10-09 22:58:28,572 - root - INFO - 0 records sent to server
+2021-10-09 22:58:33,586 - root - INFO - 0 records sent to server
+2021-10-09 22:58:38,609 - root - INFO - 0 records sent to server
+2021-10-09 22:58:43,629 - root - INFO - 0 records sent to server
+2021-10-09 22:58:48,646 - root - INFO - 0 records sent to server
+2021-10-09 22:58:53,657 - root - INFO - 0 records sent to server
+2021-10-09 22:58:58,667 - root - INFO - 0 records sent to server
+2021-10-09 22:59:03,680 - root - INFO - 0 records sent to server
+2021-10-09 22:59:08,694 - root - INFO - 0 records sent to server
+2021-10-09 22:59:13,700 - root - INFO - 0 records sent to server
+2021-10-09 22:59:18,720 - root - INFO - 0 records sent to server
+2021-10-09 22:59:23,742 - root - INFO - 0 records sent to server
+2021-10-09 22:59:28,764 - root - INFO - 0 records sent to server
+2021-10-09 22:59:33,789 - root - INFO - 0 records sent to server
+2021-10-09 22:59:38,809 - root - INFO - 0 records sent to server
+2021-10-09 22:59:43,832 - root - INFO - 0 records sent to server
+2021-10-09 22:59:48,842 - root - INFO - 0 records sent to server
+2021-10-09 22:59:53,855 - root - INFO - 0 records sent to server
+2021-10-09 22:59:58,873 - root - INFO - 0 records sent to server
+2021-10-09 23:00:03,878 - root - INFO - 0 records sent to server
+2021-10-09 23:00:08,892 - root - INFO - 0 records sent to server
+2021-10-09 23:00:13,902 - root - INFO - 0 records sent to server
+2021-10-09 23:00:18,920 - root - INFO - 0 records sent to server
+2021-10-09 23:00:23,934 - root - INFO - 0 records sent to server
+2021-10-09 23:00:28,955 - root - INFO - 0 records sent to server
+2021-10-09 23:00:33,964 - root - INFO - 0 records sent to server
+2021-10-09 23:00:38,973 - root - INFO - 0 records sent to server
+2021-10-09 23:00:43,978 - root - INFO - 0 records sent to server
+2021-10-09 23:00:48,986 - root - INFO - 0 records sent to server
+2021-10-09 23:00:53,994 - root - INFO - 0 records sent to server
+2021-10-09 23:00:58,998 - root - INFO - 0 records sent to server
+2021-10-09 23:01:04,015 - root - INFO - 0 records sent to server
+2021-10-09 23:01:09,026 - root - INFO - 0 records sent to server
+2021-10-09 23:01:14,033 - root - INFO - 0 records sent to server
+2021-10-09 23:01:19,040 - root - INFO - 0 records sent to server
+2021-10-09 23:01:24,057 - root - INFO - 0 records sent to server
+2021-10-09 23:01:29,064 - root - INFO - 0 records sent to server
+2021-10-09 23:01:34,083 - root - INFO - 0 records sent to server
+2021-10-09 23:01:39,105 - root - INFO - 0 records sent to server
+2021-10-09 23:01:44,117 - root - INFO - 0 records sent to server
+2021-10-09 23:01:49,136 - root - INFO - 0 records sent to server
+2021-10-09 23:01:54,147 - root - INFO - 0 records sent to server
+2021-10-09 23:01:59,159 - root - INFO - 0 records sent to server
+2021-10-09 23:02:04,178 - root - INFO - 0 records sent to server
+2021-10-09 23:02:09,189 - root - INFO - 0 records sent to server
+2021-10-09 23:02:14,203 - root - INFO - 0 records sent to server
+2021-10-09 23:02:19,208 - root - INFO - 0 records sent to server
+2021-10-09 23:02:24,224 - root - INFO - 0 records sent to server
+2021-10-09 23:02:29,240 - root - INFO - 0 records sent to server
+2021-10-09 23:02:34,254 - root - INFO - 0 records sent to server
+2021-10-09 23:02:39,264 - root - INFO - 0 records sent to server
+2021-10-09 23:02:44,278 - root - INFO - 0 records sent to server
+2021-10-09 23:02:49,292 - root - INFO - 0 records sent to server
+2021-10-09 23:02:54,304 - root - INFO - 0 records sent to server
+2021-10-09 23:02:56,913 - root - ERROR - Program is terminated by user
+2021-10-09 23:02:56,917 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-09 23:02:56,921 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-09 23:02:56,927 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connected> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Closing connection. 
+2021-10-09 23:02:56,929 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:03:24,996 - root - INFO - WindTurbine Data Producer is started
+2021-10-09 23:03:25,075 - root - INFO - Timer Task for Updating Last ID every 5 minutes is started
+2021-10-09 23:03:25,079 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-09 23:03:25,080 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-09 23:03:25,082 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-09 23:03:25,199 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-09 23:03:25,200 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-09 23:03:25,218 - root - INFO - 0 records sent to server
+2021-10-09 23:03:30,096 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:03:30,236 - root - INFO - 0 records sent to server
+2021-10-09 23:03:35,253 - root - INFO - 0 records sent to server
+2021-10-09 23:03:39,989 - root - ERROR - Program is terminated by user
+2021-10-09 23:03:39,993 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-09 23:03:39,995 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-09 23:03:40,004 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-09 23:03:40,005 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:03:46,568 - root - INFO - WindTurbine Data Producer is started
+2021-10-09 23:03:46,645 - root - INFO - Timer Task for Updating Last ID every 5 minutes is started
+2021-10-09 23:03:46,648 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-09 23:03:46,650 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-09 23:03:46,651 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-09 23:03:46,774 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-09 23:03:46,775 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-09 23:03:46,879 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: connecting to DESKTOP-1I1RL2C:9092 [('fe80::5043:6023:8cca:b822', 9092, 0, 43) IPv6]
+2021-10-09 23:03:46,881 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Connection complete.
+2021-10-09 23:03:46,882 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-09 23:03:47,370 - root - INFO - 1006 records sent to server
+2021-10-09 23:03:51,663 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:03:52,389 - root - INFO - 0 records sent to server
+2021-10-09 23:03:57,407 - root - INFO - 0 records sent to server
+2021-10-09 23:04:02,421 - root - INFO - 0 records sent to server
+2021-10-09 23:04:07,434 - root - INFO - 0 records sent to server
+2021-10-09 23:04:12,442 - root - INFO - 0 records sent to server
+2021-10-09 23:04:17,451 - root - INFO - 0 records sent to server
+2021-10-09 23:04:22,465 - root - INFO - 0 records sent to server
+2021-10-09 23:04:27,483 - root - INFO - 0 records sent to server
+2021-10-09 23:04:29,245 - root - ERROR - Program is terminated by user
+2021-10-09 23:04:29,248 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-09 23:04:29,251 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-09 23:04:29,258 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connected> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Closing connection. 
+2021-10-09 23:04:29,266 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:04:35,059 - root - INFO - WindTurbine Data Producer is started
+2021-10-09 23:04:35,138 - root - INFO - Timer Task for Updating Last ID every 5 minutes is started
+2021-10-09 23:04:35,142 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-09 23:04:35,143 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-09 23:04:35,145 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-09 23:04:35,267 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-09 23:04:35,268 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-09 23:04:35,506 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: connecting to DESKTOP-1I1RL2C:9092 [('fe80::5043:6023:8cca:b822', 9092, 0, 43) IPv6]
+2021-10-09 23:04:35,517 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Connection complete.
+2021-10-09 23:04:35,518 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-09 23:04:35,788 - root - INFO - 1006 records sent to server
+2021-10-09 23:04:40,148 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:04:40,810 - root - INFO - 0 records sent to server
+2021-10-09 23:04:45,822 - root - INFO - 0 records sent to server
+2021-10-09 23:04:50,843 - root - INFO - 0 records sent to server
+2021-10-09 23:04:55,856 - root - INFO - 0 records sent to server
+2021-10-09 23:05:00,868 - root - INFO - 0 records sent to server
+2021-10-09 23:05:05,877 - root - INFO - 0 records sent to server
+2021-10-09 23:05:10,889 - root - INFO - 0 records sent to server
+2021-10-09 23:05:15,900 - root - INFO - 0 records sent to server
+2021-10-09 23:05:20,919 - root - INFO - 0 records sent to server
+2021-10-09 23:05:25,942 - root - INFO - 0 records sent to server
+2021-10-09 23:05:30,951 - root - INFO - 0 records sent to server
+2021-10-09 23:05:35,968 - root - INFO - 0 records sent to server
+2021-10-09 23:05:40,973 - root - INFO - 0 records sent to server
+2021-10-09 23:05:45,985 - root - INFO - 0 records sent to server
+2021-10-09 23:05:50,992 - root - INFO - 0 records sent to server
+2021-10-09 23:05:56,007 - root - INFO - 0 records sent to server
+2021-10-09 23:06:01,019 - root - INFO - 0 records sent to server
+2021-10-09 23:06:06,027 - root - INFO - 0 records sent to server
+2021-10-09 23:06:11,038 - root - INFO - 0 records sent to server
+2021-10-09 23:06:16,058 - root - INFO - 0 records sent to server
+2021-10-09 23:06:19,386 - root - ERROR - Program is terminated by user
+2021-10-09 23:06:19,388 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-09 23:06:19,391 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-09 23:06:19,395 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connected> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Closing connection. 
+2021-10-09 23:06:19,405 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:06:24,254 - root - INFO - WindTurbine Data Producer is started
+2021-10-09 23:06:24,331 - root - INFO - Timer Task for Updating Last ID every 5 minutes is started
+2021-10-09 23:06:24,335 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-09 23:06:24,336 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-09 23:06:24,338 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-09 23:06:24,450 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-09 23:06:24,450 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-09 23:06:24,510 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: connecting to DESKTOP-1I1RL2C:9092 [('fe80::5043:6023:8cca:b822', 9092, 0, 43) IPv6]
+2021-10-09 23:06:24,512 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Connection complete.
+2021-10-09 23:06:24,513 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-09 23:06:24,743 - root - INFO - 1006 records sent to server
+2021-10-09 23:06:29,355 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:06:29,759 - root - INFO - 0 records sent to server
+2021-10-09 23:06:34,769 - root - INFO - 0 records sent to server
+2021-10-09 23:06:39,781 - root - INFO - 0 records sent to server
+2021-10-09 23:06:44,798 - root - INFO - 0 records sent to server
+2021-10-09 23:06:49,811 - root - INFO - 0 records sent to server
+2021-10-09 23:06:54,822 - root - INFO - 0 records sent to server
+2021-10-09 23:06:59,833 - root - INFO - 0 records sent to server
+2021-10-09 23:07:04,838 - root - INFO - 0 records sent to server
+2021-10-09 23:07:09,854 - root - INFO - 0 records sent to server
+2021-10-09 23:07:14,871 - root - INFO - 0 records sent to server
+2021-10-09 23:07:19,890 - root - INFO - 0 records sent to server
+2021-10-09 23:07:24,901 - root - INFO - 0 records sent to server
+2021-10-09 23:07:29,915 - root - INFO - 0 records sent to server
+2021-10-09 23:07:34,932 - root - INFO - 0 records sent to server
+2021-10-09 23:07:39,951 - root - INFO - 0 records sent to server
+2021-10-09 23:07:44,968 - root - INFO - 0 records sent to server
+2021-10-09 23:07:49,983 - root - INFO - 0 records sent to server
+2021-10-09 23:07:54,995 - root - INFO - 0 records sent to server
+2021-10-09 23:08:00,018 - root - INFO - 0 records sent to server
+2021-10-09 23:08:05,033 - root - INFO - 0 records sent to server
+2021-10-09 23:08:10,042 - root - INFO - 0 records sent to server
+2021-10-09 23:08:15,054 - root - INFO - 0 records sent to server
+2021-10-09 23:08:20,070 - root - INFO - 0 records sent to server
+2021-10-09 23:08:25,085 - root - INFO - 0 records sent to server
+2021-10-09 23:08:30,100 - root - INFO - 0 records sent to server
+2021-10-09 23:08:35,116 - root - INFO - 0 records sent to server
+2021-10-09 23:08:40,131 - root - INFO - 0 records sent to server
+2021-10-09 23:08:45,140 - root - INFO - 0 records sent to server
+2021-10-09 23:08:50,155 - root - INFO - 0 records sent to server
+2021-10-09 23:08:55,176 - root - INFO - 0 records sent to server
+2021-10-09 23:09:00,193 - root - INFO - 0 records sent to server
+2021-10-09 23:09:05,209 - root - INFO - 0 records sent to server
+2021-10-09 23:09:10,224 - root - INFO - 0 records sent to server
+2021-10-09 23:09:15,247 - root - INFO - 0 records sent to server
+2021-10-09 23:09:20,263 - root - INFO - 0 records sent to server
+2021-10-09 23:09:25,280 - root - INFO - 0 records sent to server
+2021-10-09 23:09:30,292 - root - INFO - 0 records sent to server
+2021-10-09 23:09:35,301 - root - INFO - 0 records sent to server
+2021-10-09 23:09:39,004 - root - ERROR - Program is terminated by user
+2021-10-09 23:09:39,009 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-09 23:09:39,011 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-09 23:09:39,020 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connected> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Closing connection. 
+2021-10-09 23:09:39,022 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:09:40,453 - root - INFO - WindTurbine Data Producer is started
+2021-10-09 23:09:40,530 - root - INFO - Timer Task for Updating Last ID every 5 minutes is started
+2021-10-09 23:09:40,534 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-09 23:09:40,535 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-09 23:09:40,536 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-09 23:09:40,641 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-09 23:09:40,641 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-09 23:09:40,648 - root - INFO - 0 records sent to server
+2021-10-09 23:09:45,551 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:09:45,659 - root - INFO - 0 records sent to server
+2021-10-09 23:09:48,931 - root - ERROR - Program is terminated by user
+2021-10-09 23:09:48,934 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-09 23:09:48,937 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-09 23:09:48,942 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-09 23:09:48,951 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:09:53,128 - root - INFO - WindTurbine Data Producer is started
+2021-10-09 23:09:53,206 - root - INFO - Timer Task for Updating Last ID every 5 minutes is started
+2021-10-09 23:09:53,210 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-09 23:09:53,211 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-09 23:09:53,212 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-09 23:09:53,336 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-09 23:09:53,339 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-09 23:09:53,460 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: connecting to DESKTOP-1I1RL2C:9092 [('fe80::5043:6023:8cca:b822', 9092, 0, 43) IPv6]
+2021-10-09 23:09:53,461 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Connection complete.
+2021-10-09 23:09:53,463 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-09 23:09:53,698 - root - INFO - 1006 records sent to server
+2021-10-09 23:09:58,230 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:09:58,716 - root - INFO - 0 records sent to server
+2021-10-09 23:10:03,732 - root - INFO - 0 records sent to server
+2021-10-09 23:10:08,699 - root - ERROR - Program is terminated by user
+2021-10-09 23:10:08,702 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-09 23:10:08,703 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-09 23:10:08,707 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connected> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Closing connection. 
+2021-10-09 23:10:08,713 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:10:13,329 - root - INFO - WindTurbine Data Producer is started
+2021-10-09 23:10:13,408 - root - INFO - Timer Task for Updating Last ID every 5 minutes is started
+2021-10-09 23:10:13,411 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-09 23:10:13,412 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-09 23:10:13,413 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-09 23:10:13,520 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-09 23:10:13,522 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-09 23:10:13,617 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: connecting to DESKTOP-1I1RL2C:9092 [('fe80::5043:6023:8cca:b822', 9092, 0, 43) IPv6]
+2021-10-09 23:10:13,618 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Connection complete.
+2021-10-09 23:10:13,620 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-09 23:10:14,125 - root - INFO - 1006 records sent to server
+2021-10-09 23:10:18,425 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:10:19,154 - root - INFO - 0 records sent to server
+2021-10-09 23:10:24,166 - root - INFO - 0 records sent to server
+2021-10-09 23:10:29,183 - root - INFO - 0 records sent to server
+2021-10-09 23:10:34,197 - root - INFO - 0 records sent to server
+2021-10-09 23:10:34,299 - root - ERROR - Program is terminated by user
+2021-10-09 23:10:34,300 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-09 23:10:34,302 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-09 23:10:34,305 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connected> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Closing connection. 
+2021-10-09 23:10:34,312 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:10:37,839 - root - INFO - WindTurbine Data Producer is started
+2021-10-09 23:10:37,920 - root - INFO - Timer Task for Updating Last ID every 5 minutes is started
+2021-10-09 23:10:37,923 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-09 23:10:37,924 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-09 23:10:37,926 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-09 23:10:38,043 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-09 23:10:38,044 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-09 23:10:38,132 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: connecting to DESKTOP-1I1RL2C:9092 [('fe80::5043:6023:8cca:b822', 9092, 0, 43) IPv6]
+2021-10-09 23:10:38,134 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Connection complete.
+2021-10-09 23:10:38,135 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-09 23:10:38,760 - root - INFO - 1006 records sent to server
+2021-10-09 23:10:42,928 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:10:43,795 - root - INFO - 0 records sent to server
+2021-10-09 23:10:48,814 - root - INFO - 0 records sent to server
+2021-10-09 23:10:53,831 - root - INFO - 0 records sent to server
+2021-10-09 23:10:58,841 - root - INFO - 0 records sent to server
+2021-10-09 23:11:03,860 - root - INFO - 0 records sent to server
+2021-10-09 23:11:08,876 - root - INFO - 0 records sent to server
+2021-10-09 23:11:13,894 - root - INFO - 0 records sent to server
+2021-10-09 23:11:18,912 - root - INFO - 0 records sent to server
+2021-10-09 23:11:23,926 - root - INFO - 0 records sent to server
+2021-10-09 23:11:28,947 - root - INFO - 0 records sent to server
+2021-10-09 23:11:33,966 - root - INFO - 0 records sent to server
+2021-10-09 23:11:38,981 - root - INFO - 0 records sent to server
+2021-10-09 23:11:43,993 - root - INFO - 0 records sent to server
+2021-10-09 23:11:49,012 - root - INFO - 0 records sent to server
+2021-10-09 23:11:54,021 - root - INFO - 0 records sent to server
+2021-10-09 23:11:59,030 - root - INFO - 0 records sent to server
+2021-10-09 23:12:02,814 - root - ERROR - Program is terminated by user
+2021-10-09 23:12:02,818 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-09 23:12:02,822 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-09 23:12:02,832 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connected> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Closing connection. 
+2021-10-09 23:12:02,833 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:12:07,326 - root - INFO - WindTurbine Data Producer is started
+2021-10-09 23:12:07,405 - root - INFO - Timer Task for Updating Last ID every 5 minutes is started
+2021-10-09 23:12:07,408 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-09 23:12:07,410 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-09 23:12:07,411 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-09 23:12:07,523 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-09 23:12:07,523 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-09 23:12:07,583 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: connecting to DESKTOP-1I1RL2C:9092 [('fe80::5043:6023:8cca:b822', 9092, 0, 43) IPv6]
+2021-10-09 23:12:07,586 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Connection complete.
+2021-10-09 23:12:07,587 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-09 23:12:08,033 - root - INFO - 1006 records sent to server
+2021-10-09 23:12:12,421 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:12:13,070 - root - INFO - 0 records sent to server
+2021-10-09 23:12:13,896 - root - ERROR - Program is terminated by user
+2021-10-09 23:12:13,899 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-09 23:12:13,903 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-09 23:12:13,909 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connected> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Closing connection. 
+2021-10-09 23:12:13,925 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:12:19,130 - root - INFO - WindTurbine Data Producer is started
+2021-10-09 23:12:19,205 - root - INFO - Timer Task for Updating Last ID every 5 minutes is started
+2021-10-09 23:12:19,208 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-09 23:12:19,210 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-09 23:12:19,211 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-09 23:12:19,330 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-09 23:12:19,331 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-09 23:12:19,504 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: connecting to DESKTOP-1I1RL2C:9092 [('fe80::5043:6023:8cca:b822', 9092, 0, 43) IPv6]
+2021-10-09 23:12:19,540 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Connection complete.
+2021-10-09 23:12:19,545 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-09 23:12:20,178 - root - INFO - 1006 records sent to server
+2021-10-09 23:12:24,222 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:12:25,201 - root - INFO - 0 records sent to server
+2021-10-09 23:12:30,222 - root - INFO - 0 records sent to server
+2021-10-09 23:12:35,232 - root - INFO - 0 records sent to server
+2021-10-09 23:12:40,239 - root - INFO - 0 records sent to server
+2021-10-09 23:12:45,257 - root - INFO - 0 records sent to server
+2021-10-09 23:12:50,265 - root - INFO - 0 records sent to server
+2021-10-09 23:12:55,274 - root - INFO - 0 records sent to server
+2021-10-09 23:13:00,282 - root - INFO - 0 records sent to server
+2021-10-09 23:13:05,303 - root - INFO - 0 records sent to server
+2021-10-09 23:13:10,318 - root - INFO - 0 records sent to server
+2021-10-09 23:13:15,328 - root - INFO - 0 records sent to server
+2021-10-09 23:13:20,338 - root - INFO - 0 records sent to server
+2021-10-09 23:13:25,351 - root - INFO - 0 records sent to server
+2021-10-09 23:13:30,369 - root - INFO - 0 records sent to server
+2021-10-09 23:13:35,392 - root - INFO - 0 records sent to server
+2021-10-09 23:13:40,398 - root - INFO - 0 records sent to server
+2021-10-09 23:13:45,409 - root - INFO - 0 records sent to server
+2021-10-09 23:13:50,431 - root - INFO - 0 records sent to server
+2021-10-09 23:13:55,461 - root - INFO - 0 records sent to server
+2021-10-09 23:14:00,497 - root - INFO - 0 records sent to server
+2021-10-09 23:14:05,510 - root - INFO - 0 records sent to server
+2021-10-09 23:14:10,534 - root - INFO - 0 records sent to server
+2021-10-09 23:14:15,547 - root - INFO - 0 records sent to server
+2021-10-09 23:14:20,557 - root - INFO - 0 records sent to server
+2021-10-09 23:14:25,575 - root - INFO - 0 records sent to server
+2021-10-09 23:14:30,592 - root - INFO - 0 records sent to server
+2021-10-09 23:14:35,600 - root - INFO - 0 records sent to server
+2021-10-09 23:14:40,613 - root - INFO - 0 records sent to server
+2021-10-09 23:14:45,622 - root - INFO - 0 records sent to server
+2021-10-09 23:14:50,641 - root - INFO - 0 records sent to server
+2021-10-09 23:14:55,656 - root - INFO - 0 records sent to server
+2021-10-09 23:15:00,673 - root - INFO - 0 records sent to server
+2021-10-09 23:15:05,697 - root - INFO - 0 records sent to server
+2021-10-09 23:15:10,715 - root - INFO - 0 records sent to server
+2021-10-09 23:15:15,735 - root - INFO - 0 records sent to server
+2021-10-09 23:15:20,756 - root - INFO - 0 records sent to server
+2021-10-09 23:15:25,777 - root - INFO - 0 records sent to server
+2021-10-09 23:15:30,789 - root - INFO - 0 records sent to server
+2021-10-09 23:15:35,805 - root - INFO - 0 records sent to server
+2021-10-09 23:15:40,810 - root - INFO - 0 records sent to server
+2021-10-09 23:15:45,825 - root - INFO - 0 records sent to server
+2021-10-09 23:15:50,835 - root - INFO - 0 records sent to server
+2021-10-09 23:15:55,856 - root - INFO - 0 records sent to server
+2021-10-09 23:16:00,864 - root - INFO - 0 records sent to server
+2021-10-09 23:16:05,886 - root - INFO - 0 records sent to server
+2021-10-09 23:16:10,901 - root - INFO - 0 records sent to server
+2021-10-09 23:16:15,917 - root - INFO - 0 records sent to server
+2021-10-09 23:16:20,928 - root - INFO - 0 records sent to server
+2021-10-09 23:16:25,936 - root - INFO - 0 records sent to server
+2021-10-09 23:16:30,952 - root - INFO - 0 records sent to server
+2021-10-09 23:16:35,965 - root - INFO - 0 records sent to server
+2021-10-09 23:16:40,977 - root - INFO - 0 records sent to server
+2021-10-09 23:16:45,995 - root - INFO - 0 records sent to server
+2021-10-09 23:16:51,007 - root - INFO - 0 records sent to server
+2021-10-09 23:16:56,031 - root - INFO - 0 records sent to server
+2021-10-09 23:17:01,047 - root - INFO - 0 records sent to server
+2021-10-09 23:17:06,053 - root - INFO - 0 records sent to server
+2021-10-09 23:17:11,058 - root - INFO - 0 records sent to server
+2021-10-09 23:17:16,071 - root - INFO - 0 records sent to server
+2021-10-09 23:17:18,429 - root - ERROR - Program is terminated by user
+2021-10-09 23:17:18,431 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-09 23:17:18,434 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-09 23:17:18,437 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connected> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Closing connection. 
+2021-10-09 23:17:18,444 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:17:35,601 - root - INFO - WindTurbine Data Producer is started
+2021-10-09 23:17:35,679 - root - INFO - Timer Task for Updating Last ID every 5 minutes is started
+2021-10-09 23:17:35,682 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-09 23:17:35,684 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-09 23:17:35,686 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-09 23:17:35,798 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-09 23:17:35,800 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-09 23:17:35,877 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: connecting to DESKTOP-1I1RL2C:9092 [('fe80::5043:6023:8cca:b822', 9092, 0, 43) IPv6]
+2021-10-09 23:17:35,879 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Connection complete.
+2021-10-09 23:17:35,880 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-09 23:17:36,169 - root - INFO - 1006 records sent to server
+2021-10-09 23:17:40,684 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:17:41,197 - root - INFO - 0 records sent to server
+2021-10-09 23:17:46,210 - root - INFO - 0 records sent to server
+2021-10-09 23:17:48,827 - root - ERROR - Program is terminated by user
+2021-10-09 23:17:48,829 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-09 23:17:48,832 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-09 23:17:48,839 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connected> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Closing connection. 
+2021-10-09 23:17:48,841 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:17:50,850 - root - INFO - WindTurbine Data Producer is started
+2021-10-09 23:17:50,928 - root - INFO - Timer Task for Updating Last ID every 5 minutes is started
+2021-10-09 23:17:50,931 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-09 23:17:50,932 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-09 23:17:50,934 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-09 23:17:51,038 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-09 23:17:51,039 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-09 23:17:51,045 - root - INFO - 0 records sent to server
+2021-10-09 23:17:55,949 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:17:56,055 - root - INFO - 0 records sent to server
+2021-10-09 23:18:01,062 - root - INFO - 0 records sent to server
+2021-10-09 23:18:01,718 - root - ERROR - Program is terminated by user
+2021-10-09 23:18:01,719 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-09 23:18:01,720 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-09 23:18:01,723 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-09 23:18:01,724 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:18:06,513 - root - INFO - WindTurbine Data Producer is started
+2021-10-09 23:18:06,591 - root - INFO - Timer Task for Updating Last ID every 5 minutes is started
+2021-10-09 23:18:06,595 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-09 23:18:06,596 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-09 23:18:06,597 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-09 23:18:06,706 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-09 23:18:06,707 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-09 23:18:06,811 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: connecting to DESKTOP-1I1RL2C:9092 [('fe80::5043:6023:8cca:b822', 9092, 0, 43) IPv6]
+2021-10-09 23:18:06,812 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Connection complete.
+2021-10-09 23:18:06,814 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-09 23:18:07,274 - root - INFO - 1006 records sent to server
+2021-10-09 23:18:11,604 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:18:12,284 - root - INFO - 0 records sent to server
+2021-10-09 23:18:17,299 - root - INFO - 0 records sent to server
+2021-10-09 23:18:22,321 - root - INFO - 0 records sent to server
+2021-10-09 23:18:27,331 - root - INFO - 0 records sent to server
+2021-10-09 23:18:32,347 - root - INFO - 0 records sent to server
+2021-10-09 23:18:37,365 - root - INFO - 0 records sent to server
+2021-10-09 23:18:42,386 - root - INFO - 0 records sent to server
+2021-10-09 23:18:47,407 - root - INFO - 0 records sent to server
+2021-10-09 23:18:52,422 - root - INFO - 0 records sent to server
+2021-10-09 23:18:57,429 - root - INFO - 0 records sent to server
+2021-10-09 23:19:02,441 - root - INFO - 0 records sent to server
+2021-10-09 23:19:07,458 - root - INFO - 0 records sent to server
+2021-10-09 23:19:12,476 - root - INFO - 0 records sent to server
+2021-10-09 23:19:17,497 - root - INFO - 0 records sent to server
+2021-10-09 23:19:22,502 - root - INFO - 0 records sent to server
+2021-10-09 23:19:27,511 - root - INFO - 0 records sent to server
+2021-10-09 23:19:32,525 - root - INFO - 0 records sent to server
+2021-10-09 23:19:37,537 - root - INFO - 0 records sent to server
+2021-10-09 23:19:42,548 - root - INFO - 0 records sent to server
+2021-10-09 23:19:44,827 - root - ERROR - Program is terminated by user
+2021-10-09 23:19:44,828 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-09 23:19:44,828 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-09 23:19:44,830 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connected> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Closing connection. 
+2021-10-09 23:19:44,833 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:19:56,705 - root - INFO - WindTurbine Data Producer is started
+2021-10-09 23:19:56,783 - root - INFO - Timer Task for Updating Last ID every 5 minutes is started
+2021-10-09 23:19:56,787 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-09 23:19:56,788 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-09 23:19:56,790 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-09 23:19:56,893 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-09 23:19:56,894 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-09 23:19:56,956 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: connecting to DESKTOP-1I1RL2C:9092 [('fe80::5043:6023:8cca:b822', 9092, 0, 43) IPv6]
+2021-10-09 23:19:56,958 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Connection complete.
+2021-10-09 23:19:56,959 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-09 23:19:57,240 - root - INFO - 1006 records sent to server
+2021-10-09 23:20:01,798 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:20:02,265 - root - INFO - 0 records sent to server
+2021-10-09 23:20:07,273 - root - INFO - 0 records sent to server
+2021-10-09 23:20:12,284 - root - INFO - 0 records sent to server
+2021-10-09 23:20:17,300 - root - INFO - 0 records sent to server
+2021-10-09 23:20:22,309 - root - INFO - 0 records sent to server
+2021-10-09 23:20:27,312 - root - INFO - 0 records sent to server
+2021-10-09 23:20:32,320 - root - INFO - 0 records sent to server
+2021-10-09 23:20:37,332 - root - INFO - 0 records sent to server
+2021-10-09 23:20:42,350 - root - INFO - 0 records sent to server
+2021-10-09 23:20:47,365 - root - INFO - 0 records sent to server
+2021-10-09 23:20:52,387 - root - INFO - 0 records sent to server
+2021-10-09 23:20:56,946 - root - ERROR - Program is terminated by user
+2021-10-09 23:20:56,950 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-09 23:20:56,952 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-09 23:20:56,955 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connected> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Closing connection. 
+2021-10-09 23:20:56,963 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:21:31,410 - root - INFO - WindTurbine Data Producer is started
+2021-10-09 23:21:31,493 - root - INFO - Timer Task for Updating Last ID every 5 minutes is started
+2021-10-09 23:21:31,497 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-09 23:21:31,498 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-09 23:21:31,499 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-09 23:21:31,611 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-09 23:21:31,613 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-09 23:21:31,703 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: connecting to DESKTOP-1I1RL2C:9092 [('fe80::5043:6023:8cca:b822', 9092, 0, 43) IPv6]
+2021-10-09 23:21:31,705 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Connection complete.
+2021-10-09 23:21:31,706 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-09 23:21:31,989 - root - INFO - 1006 records sent to server
+2021-10-09 23:21:36,506 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 23:21:37,005 - root - INFO - 0 records sent to server
+2021-10-09 23:21:42,023 - root - INFO - 0 records sent to server
+2021-10-09 23:21:47,031 - root - INFO - 0 records sent to server
+2021-10-09 23:21:52,043 - root - INFO - 0 records sent to server
+2021-10-09 23:21:57,054 - root - INFO - 0 records sent to server
+2021-10-09 23:22:02,059 - root - INFO - 0 records sent to server
+2021-10-09 23:22:07,076 - root - INFO - 0 records sent to server
+2021-10-09 23:22:12,092 - root - INFO - 0 records sent to server
+2021-10-09 23:22:17,107 - root - INFO - 0 records sent to server
+2021-10-09 23:22:22,118 - root - INFO - 0 records sent to server
+2021-10-09 23:22:27,131 - root - INFO - 0 records sent to server
+2021-10-09 23:22:32,141 - root - INFO - 0 records sent to server
+2021-10-09 23:22:37,151 - root - INFO - 0 records sent to server
+2021-10-09 23:22:42,167 - root - INFO - 0 records sent to server
+2021-10-09 23:22:47,185 - root - INFO - 0 records sent to server
+2021-10-09 23:22:52,196 - root - INFO - 0 records sent to server
+2021-10-09 23:22:57,214 - root - INFO - 0 records sent to server
+2021-10-09 23:23:02,224 - root - INFO - 0 records sent to server
+2021-10-09 23:23:07,238 - root - INFO - 0 records sent to server
+2021-10-09 23:23:12,256 - root - INFO - 0 records sent to server
+2021-10-09 23:23:17,272 - root - INFO - 0 records sent to server
+2021-10-09 23:23:22,288 - root - INFO - 0 records sent to server
+2021-10-09 23:23:27,296 - root - INFO - 0 records sent to server
+2021-10-09 23:23:32,303 - root - INFO - 0 records sent to server
+2021-10-09 23:23:37,320 - root - INFO - 0 records sent to server
+2021-10-09 23:23:42,333 - root - INFO - 0 records sent to server
+2021-10-09 23:23:47,341 - root - INFO - 0 records sent to server
+2021-10-09 23:23:52,347 - root - INFO - 0 records sent to server
+2021-10-09 23:23:57,365 - root - INFO - 0 records sent to server
+2021-10-09 23:24:02,374 - root - INFO - 0 records sent to server
+2021-10-09 23:24:07,395 - root - INFO - 0 records sent to server
+2021-10-09 23:24:12,409 - root - INFO - 0 records sent to server
+2021-10-09 23:24:17,426 - root - INFO - 0 records sent to server
+2021-10-09 23:24:22,444 - root - INFO - 0 records sent to server
+2021-10-09 23:24:27,455 - root - INFO - 0 records sent to server
+2021-10-09 23:24:32,473 - root - INFO - 0 records sent to server
+2021-10-09 23:24:37,490 - root - INFO - 0 records sent to server
+2021-10-09 23:24:42,510 - root - INFO - 0 records sent to server
+2021-10-09 23:24:47,521 - root - INFO - 0 records sent to server
+2021-10-09 23:24:52,542 - root - INFO - 0 records sent to server
+2021-10-09 23:24:57,552 - root - INFO - 0 records sent to server
+2021-10-09 23:25:02,564 - root - INFO - 0 records sent to server
+2021-10-09 23:25:07,571 - root - INFO - 0 records sent to server
+2021-10-09 23:25:12,581 - root - INFO - 0 records sent to server
+2021-10-09 23:25:17,589 - root - INFO - 0 records sent to server
+2021-10-09 23:25:22,603 - root - INFO - 0 records sent to server
+2021-10-09 23:25:27,615 - root - INFO - 0 records sent to server
+2021-10-09 23:25:32,629 - root - INFO - 0 records sent to server
+2021-10-09 23:25:37,650 - root - INFO - 0 records sent to server
+2021-10-09 23:25:42,662 - root - INFO - 0 records sent to server
+2021-10-09 23:25:47,665 - root - INFO - 0 records sent to server
+2021-10-09 23:25:52,678 - root - INFO - 0 records sent to server
+2021-10-09 23:25:57,689 - root - INFO - 0 records sent to server
+2021-10-09 23:26:02,696 - root - INFO - 0 records sent to server
+2021-10-09 23:26:07,706 - root - INFO - 0 records sent to server
+2021-10-09 23:26:12,722 - root - INFO - 0 records sent to server
+2021-10-09 23:26:17,725 - root - INFO - 0 records sent to server
+2021-10-09 23:26:22,740 - root - INFO - 0 records sent to server
+2021-10-09 23:26:27,755 - root - INFO - 0 records sent to server
+2021-10-09 23:26:32,765 - root - INFO - 0 records sent to server
+2021-10-09 23:26:37,778 - root - INFO - 0 records sent to server
+2021-10-09 23:26:42,786 - root - INFO - 0 records sent to server
+2021-10-09 23:26:47,790 - root - INFO - 0 records sent to server
+2021-10-09 23:26:52,801 - root - INFO - 0 records sent to server
+2021-10-09 23:26:57,803 - root - INFO - 0 records sent to server
+2021-10-09 23:27:02,810 - root - INFO - 0 records sent to server
+2021-10-09 23:27:07,825 - root - INFO - 0 records sent to server
+2021-10-09 23:27:12,839 - root - INFO - 0 records sent to server
+2021-10-09 23:27:17,854 - root - INFO - 0 records sent to server
+2021-10-09 23:27:22,867 - root - INFO - 0 records sent to server
+2021-10-09 23:27:27,878 - root - INFO - 0 records sent to server
+2021-10-09 23:27:32,891 - root - INFO - 0 records sent to server
+2021-10-09 23:27:37,908 - root - INFO - 0 records sent to server
+2021-10-09 23:27:42,922 - root - INFO - 0 records sent to server
+2021-10-09 23:27:47,935 - root - INFO - 0 records sent to server
+2021-10-09 23:27:52,947 - root - INFO - 0 records sent to server
+2021-10-09 23:27:57,962 - root - INFO - 0 records sent to server
+2021-10-09 23:28:02,976 - root - INFO - 0 records sent to server
+2021-10-09 23:28:07,987 - root - INFO - 0 records sent to server
+2021-10-09 23:28:13,002 - root - INFO - 0 records sent to server
+2021-10-09 23:28:18,019 - root - INFO - 0 records sent to server
+2021-10-09 23:28:23,026 - root - INFO - 0 records sent to server
+2021-10-09 23:28:28,035 - root - INFO - 0 records sent to server
+2021-10-09 23:28:33,047 - root - INFO - 0 records sent to server
+2021-10-09 23:28:38,062 - root - INFO - 0 records sent to server
+2021-10-09 23:28:43,076 - root - INFO - 0 records sent to server
+2021-10-09 23:28:48,080 - root - INFO - 0 records sent to server
+2021-10-09 23:28:53,091 - root - INFO - 0 records sent to server
+2021-10-09 23:28:58,103 - root - INFO - 0 records sent to server
+2021-10-09 23:29:03,116 - root - INFO - 0 records sent to server
+2021-10-09 23:29:08,122 - root - INFO - 0 records sent to server
+2021-10-09 23:29:13,133 - root - INFO - 0 records sent to server
+2021-10-09 23:29:18,147 - root - INFO - 0 records sent to server
+2021-10-09 23:29:23,160 - root - INFO - 0 records sent to server
+2021-10-09 23:29:28,171 - root - INFO - 0 records sent to server
+2021-10-09 23:29:33,181 - root - INFO - 0 records sent to server
+2021-10-09 23:29:38,193 - root - INFO - 0 records sent to server
+2021-10-09 23:29:43,202 - root - INFO - 0 records sent to server
+2021-10-09 23:29:48,216 - root - INFO - 0 records sent to server
+2021-10-09 23:29:53,229 - root - INFO - 0 records sent to server
+2021-10-09 23:29:58,239 - root - INFO - 0 records sent to server
+2021-10-09 23:30:03,248 - root - INFO - 0 records sent to server
+2021-10-09 23:30:08,250 - root - INFO - 0 records sent to server
+2021-10-09 23:30:13,256 - root - INFO - 0 records sent to server
+2021-10-09 23:30:18,267 - root - INFO - 0 records sent to server
+2021-10-09 23:30:23,281 - root - INFO - 0 records sent to server
+2021-10-09 23:30:28,291 - root - INFO - 0 records sent to server
+2021-10-09 23:30:33,306 - root - INFO - 0 records sent to server
+2021-10-09 23:30:38,315 - root - INFO - 0 records sent to server
+2021-10-09 23:30:43,326 - root - INFO - 0 records sent to server
+2021-10-09 23:30:48,332 - root - INFO - 0 records sent to server
+2021-10-09 23:30:53,344 - root - INFO - 0 records sent to server
+2021-10-09 23:30:58,350 - root - INFO - 0 records sent to server
+2021-10-09 23:31:03,360 - root - INFO - 0 records sent to server
+2021-10-09 23:31:08,368 - root - INFO - 0 records sent to server
+2021-10-09 23:31:13,379 - root - INFO - 0 records sent to server
+2021-10-09 23:31:18,390 - root - INFO - 0 records sent to server
+2021-10-09 23:31:23,402 - root - INFO - 0 records sent to server
+2021-10-09 23:31:28,414 - root - INFO - 0 records sent to server
+2021-10-09 23:31:33,427 - root - INFO - 0 records sent to server
+2021-10-09 23:31:38,440 - root - INFO - 0 records sent to server
+2021-10-09 23:31:43,451 - root - INFO - 0 records sent to server
+2021-10-09 23:31:48,458 - root - INFO - 0 records sent to server
+2021-10-09 23:31:53,462 - root - INFO - 0 records sent to server
+2021-10-09 23:31:58,479 - root - INFO - 0 records sent to server
+2021-10-09 23:32:03,497 - root - INFO - 0 records sent to server
+2021-10-09 23:32:08,498 - root - INFO - 0 records sent to server
+2021-10-09 23:32:13,512 - root - INFO - 0 records sent to server
+2021-10-09 23:32:18,514 - root - INFO - 0 records sent to server
+2021-10-09 23:32:23,529 - root - INFO - 0 records sent to server
+2021-10-09 23:32:28,536 - root - INFO - 0 records sent to server
+2021-10-09 23:32:33,550 - root - INFO - 0 records sent to server
+2021-10-09 23:32:38,562 - root - INFO - 0 records sent to server
+2021-10-09 23:32:43,578 - root - INFO - 0 records sent to server
+2021-10-09 23:32:48,582 - root - INFO - 0 records sent to server
+2021-10-09 23:32:53,600 - root - INFO - 0 records sent to server
+2021-10-09 23:32:58,617 - root - INFO - 0 records sent to server
+2021-10-09 23:33:03,621 - root - INFO - 0 records sent to server
+2021-10-09 23:33:08,627 - root - INFO - 0 records sent to server
+2021-10-09 23:33:13,642 - root - INFO - 0 records sent to server
+2021-10-09 23:33:18,658 - root - INFO - 0 records sent to server
+2021-10-09 23:33:23,662 - root - INFO - 0 records sent to server
+2021-10-09 23:33:28,664 - root - INFO - 0 records sent to server
+2021-10-09 23:33:33,682 - root - INFO - 0 records sent to server
+2021-10-09 23:33:38,685 - root - INFO - 0 records sent to server
+2021-10-09 23:33:43,690 - root - INFO - 0 records sent to server
+2021-10-09 23:33:48,705 - root - INFO - 0 records sent to server
+2021-10-09 23:33:53,709 - root - INFO - 0 records sent to server
+2021-10-09 23:33:58,722 - root - INFO - 0 records sent to server
+2021-10-09 23:34:03,738 - root - INFO - 0 records sent to server
+2021-10-09 23:34:08,745 - root - INFO - 0 records sent to server
+2021-10-09 23:34:13,750 - root - INFO - 0 records sent to server
+2021-10-09 23:34:18,752 - root - INFO - 0 records sent to server
+2021-10-09 23:34:23,769 - root - INFO - 0 records sent to server
+2021-10-09 23:34:28,786 - root - INFO - 0 records sent to server
+2021-10-09 23:34:33,799 - root - INFO - 0 records sent to server
+2021-10-09 23:34:38,813 - root - INFO - 0 records sent to server
+2021-10-09 23:34:43,826 - root - INFO - 0 records sent to server
+2021-10-09 23:34:48,844 - root - INFO - 0 records sent to server
+2021-10-09 23:34:53,858 - root - INFO - 0 records sent to server
+2021-10-09 23:34:58,872 - root - INFO - 0 records sent to server
+2021-10-09 23:35:03,886 - root - INFO - 0 records sent to server
+2021-10-09 23:35:08,889 - root - INFO - 0 records sent to server
+2021-10-09 23:35:13,906 - root - INFO - 0 records sent to server
+2021-10-09 23:35:18,921 - root - INFO - 0 records sent to server
+2021-10-09 23:35:23,936 - root - INFO - 0 records sent to server
+2021-10-09 23:35:28,942 - root - INFO - 0 records sent to server
+2021-10-09 23:35:33,945 - root - INFO - 0 records sent to server
+2021-10-09 23:35:38,948 - root - INFO - 0 records sent to server
+2021-10-09 23:35:43,963 - root - INFO - 0 records sent to server
+2021-10-09 23:35:48,974 - root - INFO - 0 records sent to server
+2021-10-09 23:35:53,994 - root - INFO - 0 records sent to server
+2021-10-09 23:35:59,012 - root - INFO - 0 records sent to server
+2021-10-09 23:36:04,030 - root - INFO - 0 records sent to server
+2021-10-09 23:36:09,039 - root - INFO - 0 records sent to server
+2021-10-09 23:36:14,060 - root - INFO - 0 records sent to server
+2021-10-09 23:36:19,068 - root - INFO - 0 records sent to server
+2021-10-09 23:36:24,086 - root - INFO - 0 records sent to server
+2021-10-09 23:36:29,105 - root - INFO - 0 records sent to server
+2021-10-09 23:36:34,126 - root - INFO - 0 records sent to server
+2021-10-09 23:36:39,143 - root - INFO - 0 records sent to server
+2021-10-09 23:36:44,151 - root - INFO - 0 records sent to server
+2021-10-09 23:36:49,166 - root - INFO - 0 records sent to server
+2021-10-09 23:36:54,179 - root - INFO - 0 records sent to server
+2021-10-09 23:36:59,193 - root - INFO - 0 records sent to server
+2021-10-09 23:37:04,211 - root - INFO - 0 records sent to server
+2021-10-09 23:37:09,232 - root - INFO - 0 records sent to server
+2021-10-09 23:37:14,241 - root - INFO - 0 records sent to server
+2021-10-09 23:37:19,257 - root - INFO - 0 records sent to server
+2021-10-09 23:37:24,273 - root - INFO - 0 records sent to server
+2021-10-09 23:37:29,291 - root - INFO - 0 records sent to server
+2021-10-09 23:37:34,301 - root - INFO - 0 records sent to server
+2021-10-09 23:37:39,309 - root - INFO - 0 records sent to server
+2021-10-09 23:37:44,322 - root - INFO - 0 records sent to server
+2021-10-09 23:37:49,343 - root - INFO - 0 records sent to server
+2021-10-09 23:37:54,355 - root - INFO - 0 records sent to server
+2021-10-09 23:37:59,366 - root - INFO - 0 records sent to server
+2021-10-09 23:38:04,375 - root - INFO - 0 records sent to server
+2021-10-09 23:38:09,396 - root - INFO - 0 records sent to server
+2021-10-09 23:38:14,407 - root - INFO - 0 records sent to server
+2021-10-09 23:38:19,424 - root - INFO - 0 records sent to server
+2021-10-09 23:38:24,432 - root - INFO - 0 records sent to server
+2021-10-09 23:38:29,454 - root - INFO - 0 records sent to server
+2021-10-09 23:38:34,477 - root - INFO - 0 records sent to server
+2021-10-09 23:38:39,490 - root - INFO - 0 records sent to server
+2021-10-09 23:38:44,510 - root - INFO - 0 records sent to server
+2021-10-09 23:38:49,527 - root - INFO - 0 records sent to server
+2021-10-09 23:38:54,542 - root - INFO - 0 records sent to server
+2021-10-09 23:38:59,557 - root - INFO - 0 records sent to server
+2021-10-09 23:39:04,567 - root - INFO - 0 records sent to server
+2021-10-09 23:39:09,582 - root - INFO - 0 records sent to server
+2021-10-09 23:39:14,602 - root - INFO - 0 records sent to server
+2021-10-09 23:39:19,621 - root - INFO - 0 records sent to server
+2021-10-09 23:39:24,631 - root - INFO - 0 records sent to server
+2021-10-09 23:39:29,649 - root - INFO - 0 records sent to server
+2021-10-09 23:39:34,670 - root - INFO - 0 records sent to server
+2021-10-09 23:39:39,679 - root - INFO - 0 records sent to server
+2021-10-09 23:39:44,697 - root - INFO - 0 records sent to server
+2021-10-09 23:39:49,715 - root - INFO - 0 records sent to server
+2021-10-09 23:39:54,728 - root - INFO - 0 records sent to server
+2021-10-09 23:39:59,737 - root - INFO - 0 records sent to server
+2021-10-09 23:40:04,758 - root - INFO - 0 records sent to server
+2021-10-09 23:40:09,776 - root - INFO - 0 records sent to server
+2021-10-09 23:40:14,788 - root - INFO - 0 records sent to server
+2021-10-09 23:40:19,806 - root - INFO - 0 records sent to server
+2021-10-09 23:40:24,827 - root - INFO - 0 records sent to server
+2021-10-09 23:40:29,838 - root - INFO - 0 records sent to server
+2021-10-09 23:40:34,851 - root - INFO - 0 records sent to server
+2021-10-09 23:40:39,860 - root - INFO - 0 records sent to server
+2021-10-09 23:40:44,872 - root - INFO - 0 records sent to server
+2021-10-09 23:40:49,893 - root - INFO - 0 records sent to server
+2021-10-09 23:40:54,909 - root - INFO - 0 records sent to server
+2021-10-09 23:40:59,928 - root - INFO - 0 records sent to server
+2021-10-09 23:41:04,944 - root - INFO - 0 records sent to server
+2021-10-09 23:41:09,965 - root - INFO - 0 records sent to server
+2021-10-09 23:41:14,985 - root - INFO - 0 records sent to server
+2021-10-09 23:41:19,997 - root - INFO - 0 records sent to server
+2021-10-09 23:41:25,005 - root - INFO - 0 records sent to server
+2021-10-09 23:41:30,013 - root - INFO - 0 records sent to server
+2021-10-09 23:41:35,023 - root - INFO - 0 records sent to server
+2021-10-09 23:41:40,034 - root - INFO - 0 records sent to server
+2021-10-09 23:41:45,043 - root - INFO - 0 records sent to server
+2021-10-09 23:41:50,058 - root - INFO - 0 records sent to server
+2021-10-09 23:41:55,069 - root - INFO - 0 records sent to server
+2021-10-09 23:42:00,087 - root - INFO - 0 records sent to server
+2021-10-09 23:42:05,097 - root - INFO - 0 records sent to server
+2021-10-09 23:42:10,118 - root - INFO - 0 records sent to server
+2021-10-09 23:42:15,126 - root - INFO - 0 records sent to server
+2021-10-09 23:42:20,135 - root - INFO - 0 records sent to server
+2021-10-09 23:42:25,150 - root - INFO - 0 records sent to server
+2021-10-09 23:42:30,161 - root - INFO - 0 records sent to server
+2021-10-09 23:42:35,181 - root - INFO - 0 records sent to server
+2021-10-09 23:42:40,194 - root - INFO - 0 records sent to server
+2021-10-09 23:42:45,204 - root - INFO - 0 records sent to server
+2021-10-09 23:42:50,215 - root - INFO - 0 records sent to server
+2021-10-09 23:42:55,228 - root - INFO - 0 records sent to server
+2021-10-09 23:43:00,242 - root - INFO - 0 records sent to server
+2021-10-09 23:43:05,261 - root - INFO - 0 records sent to server
+2021-10-09 23:43:10,279 - root - INFO - 0 records sent to server
+2021-10-09 23:43:15,300 - root - INFO - 0 records sent to server
+2021-10-09 23:43:20,308 - root - INFO - 0 records sent to server
+2021-10-09 23:43:25,327 - root - INFO - 0 records sent to server
+2021-10-09 23:43:30,338 - root - INFO - 0 records sent to server
+2021-10-09 23:43:35,348 - root - INFO - 0 records sent to server
+2021-10-09 23:43:40,358 - root - INFO - 0 records sent to server
+2021-10-09 23:43:45,375 - root - INFO - 0 records sent to server
+2021-10-09 23:43:50,389 - root - INFO - 0 records sent to server
+2021-10-09 23:43:55,407 - root - INFO - 0 records sent to server
+2021-10-09 23:44:00,421 - root - INFO - 0 records sent to server
+2021-10-09 23:44:05,435 - root - INFO - 0 records sent to server
+2021-10-09 23:44:10,453 - root - INFO - 0 records sent to server
+2021-10-09 23:44:15,462 - root - INFO - 0 records sent to server
+2021-10-09 23:44:20,470 - root - INFO - 0 records sent to server
+2021-10-09 23:44:25,490 - root - INFO - 0 records sent to server
+2021-10-09 23:44:30,501 - root - INFO - 0 records sent to server
+2021-10-09 23:44:35,518 - root - INFO - 0 records sent to server
+2021-10-09 23:44:40,533 - root - INFO - 0 records sent to server
+2021-10-09 23:44:45,547 - root - INFO - 0 records sent to server
+2021-10-09 23:44:50,553 - root - INFO - 0 records sent to server
+2021-10-09 23:44:55,560 - root - INFO - 0 records sent to server
+2021-10-09 23:45:00,566 - root - INFO - 0 records sent to server
+2021-10-09 23:45:05,579 - root - INFO - 0 records sent to server
+2021-10-09 23:45:10,596 - root - INFO - 0 records sent to server
+2021-10-09 23:45:15,617 - root - INFO - 0 records sent to server
+2021-10-09 23:45:20,637 - root - INFO - 0 records sent to server
+2021-10-09 23:45:25,650 - root - INFO - 0 records sent to server
+2021-10-09 23:45:30,668 - root - INFO - 0 records sent to server
+2021-10-09 23:45:35,676 - root - INFO - 0 records sent to server
+2021-10-09 23:45:40,685 - root - INFO - 0 records sent to server
+2021-10-09 23:45:45,700 - root - INFO - 0 records sent to server
+2021-10-09 23:45:50,716 - root - INFO - 0 records sent to server
+2021-10-09 23:45:55,735 - root - INFO - 0 records sent to server
+2021-10-09 23:46:00,753 - root - INFO - 0 records sent to server
+2021-10-09 23:46:05,772 - root - INFO - 0 records sent to server
+2021-10-09 23:46:10,791 - root - INFO - 0 records sent to server
+2021-10-09 23:46:15,813 - root - INFO - 0 records sent to server
+2021-10-09 23:46:20,822 - root - INFO - 0 records sent to server
+2021-10-09 23:46:25,837 - root - INFO - 0 records sent to server
+2021-10-09 23:46:30,854 - root - INFO - 0 records sent to server
+2021-10-09 23:46:35,862 - root - INFO - 0 records sent to server
+2021-10-09 23:46:40,875 - root - INFO - 0 records sent to server
+2021-10-09 23:46:45,894 - root - INFO - 0 records sent to server
+2021-10-09 23:46:50,906 - root - INFO - 0 records sent to server
+2021-10-09 23:46:55,920 - root - INFO - 0 records sent to server
+2021-10-09 23:47:00,938 - root - INFO - 0 records sent to server
+2021-10-09 23:47:05,945 - root - INFO - 0 records sent to server
+2021-10-09 23:47:10,954 - root - INFO - 0 records sent to server
+2021-10-09 23:47:15,971 - root - INFO - 0 records sent to server
+2021-10-09 23:47:20,981 - root - INFO - 0 records sent to server
+2021-10-09 23:47:26,000 - root - INFO - 0 records sent to server
+2021-10-09 23:47:31,008 - root - INFO - 0 records sent to server
+2021-10-09 23:47:36,025 - root - INFO - 0 records sent to server
+2021-10-09 23:47:41,040 - root - INFO - 0 records sent to server
+2021-10-09 23:47:46,058 - root - INFO - 0 records sent to server
+2021-10-09 23:47:51,066 - root - INFO - 0 records sent to server
+2021-10-09 23:47:56,083 - root - INFO - 0 records sent to server
+2021-10-09 23:48:01,097 - root - INFO - 0 records sent to server
+2021-10-09 23:48:06,110 - root - INFO - 0 records sent to server
+2021-10-09 23:48:11,127 - root - INFO - 0 records sent to server
+2021-10-09 23:48:16,144 - root - INFO - 0 records sent to server
+2021-10-09 23:48:21,156 - root - INFO - 0 records sent to server
+2021-10-09 23:48:26,174 - root - INFO - 0 records sent to server
+2021-10-09 23:48:31,184 - root - INFO - 0 records sent to server
+2021-10-09 23:48:36,195 - root - INFO - 0 records sent to server
+2021-10-09 23:48:41,216 - root - INFO - 0 records sent to server
+2021-10-09 23:48:46,237 - root - INFO - 0 records sent to server
+2021-10-09 23:48:51,250 - root - INFO - 0 records sent to server
+2021-10-09 23:48:56,264 - root - INFO - 0 records sent to server
+2021-10-09 23:49:01,280 - root - INFO - 0 records sent to server
+2021-10-09 23:49:06,299 - root - INFO - 0 records sent to server
+2021-10-09 23:49:11,319 - root - INFO - 0 records sent to server
+2021-10-09 23:49:16,329 - root - INFO - 0 records sent to server
+2021-10-09 23:49:21,340 - root - INFO - 0 records sent to server
+2021-10-09 23:49:26,357 - root - INFO - 0 records sent to server
+2021-10-09 23:49:31,371 - root - INFO - 0 records sent to server
+2021-10-09 23:49:36,381 - root - INFO - 0 records sent to server
+2021-10-09 23:49:41,390 - root - INFO - 0 records sent to server
+2021-10-09 23:49:46,399 - root - INFO - 0 records sent to server
+2021-10-09 23:49:51,413 - root - INFO - 0 records sent to server
+2021-10-09 23:49:56,421 - root - INFO - 0 records sent to server
+2021-10-09 23:50:01,435 - root - INFO - 0 records sent to server
+2021-10-09 23:50:06,447 - root - INFO - 0 records sent to server
+2021-10-09 23:50:11,467 - root - INFO - 0 records sent to server
+2021-10-09 23:50:16,488 - root - INFO - 0 records sent to server
+2021-10-09 23:50:21,494 - root - INFO - 0 records sent to server
+2021-10-09 23:50:26,507 - root - INFO - 0 records sent to server
+2021-10-09 23:50:31,514 - root - INFO - 0 records sent to server
+2021-10-09 23:50:36,530 - root - INFO - 0 records sent to server
+2021-10-09 23:50:41,547 - root - INFO - 0 records sent to server
+2021-10-09 23:50:46,556 - root - INFO - 0 records sent to server
+2021-10-09 23:50:51,564 - root - INFO - 0 records sent to server
+2021-10-09 23:50:56,582 - root - INFO - 0 records sent to server
+2021-10-09 23:51:01,599 - root - INFO - 0 records sent to server
+2021-10-09 23:51:06,613 - root - INFO - 0 records sent to server
+2021-10-09 23:51:11,634 - root - INFO - 0 records sent to server
+2021-10-09 23:51:16,648 - root - INFO - 0 records sent to server
+2021-10-09 23:51:21,660 - root - INFO - 0 records sent to server
+2021-10-09 23:51:26,672 - root - INFO - 0 records sent to server
+2021-10-09 23:51:31,683 - root - INFO - 0 records sent to server
+2021-10-09 23:51:36,691 - root - INFO - 0 records sent to server
+2021-10-09 23:51:41,708 - root - INFO - 0 records sent to server
+2021-10-09 23:51:46,723 - root - INFO - 0 records sent to server
+2021-10-09 23:51:51,740 - root - INFO - 0 records sent to server
+2021-10-09 23:51:56,755 - root - INFO - 0 records sent to server
+2021-10-09 23:52:01,770 - root - INFO - 0 records sent to server
+2021-10-09 23:52:06,784 - root - INFO - 0 records sent to server
+2021-10-09 23:52:11,792 - root - INFO - 0 records sent to server
+2021-10-09 23:52:16,806 - root - INFO - 0 records sent to server
+2021-10-09 23:52:21,824 - root - INFO - 0 records sent to server
+2021-10-09 23:52:26,832 - root - INFO - 0 records sent to server
+2021-10-09 23:52:31,849 - root - INFO - 0 records sent to server
+2021-10-09 23:52:36,867 - root - INFO - 0 records sent to server
+2021-10-09 23:52:41,889 - root - INFO - 0 records sent to server
+2021-10-09 23:52:46,902 - root - INFO - 0 records sent to server
+2021-10-09 23:52:51,921 - root - INFO - 0 records sent to server
+2021-10-09 23:52:56,941 - root - INFO - 0 records sent to server
+2021-10-09 23:53:01,953 - root - INFO - 0 records sent to server
+2021-10-09 23:53:06,960 - root - INFO - 0 records sent to server
+2021-10-09 23:53:11,978 - root - INFO - 0 records sent to server
+2021-10-09 23:53:16,990 - root - INFO - 0 records sent to server
+2021-10-09 23:53:22,009 - root - INFO - 0 records sent to server
+2021-10-09 23:53:27,025 - root - INFO - 0 records sent to server
+2021-10-09 23:53:32,040 - root - INFO - 0 records sent to server
+2021-10-09 23:53:37,054 - root - INFO - 0 records sent to server
+2021-10-09 23:53:42,058 - root - INFO - 0 records sent to server
+2021-10-09 23:53:47,069 - root - INFO - 0 records sent to server
+2021-10-09 23:53:52,088 - root - INFO - 0 records sent to server
+2021-10-09 23:53:57,105 - root - INFO - 0 records sent to server
+2021-10-09 23:54:02,117 - root - INFO - 0 records sent to server
+2021-10-09 23:54:07,134 - root - INFO - 0 records sent to server
+2021-10-09 23:54:12,149 - root - INFO - 0 records sent to server
+2021-10-09 23:54:17,170 - root - INFO - 0 records sent to server
+2021-10-09 23:54:22,192 - root - INFO - 0 records sent to server
+2021-10-09 23:54:27,213 - root - INFO - 0 records sent to server
+2021-10-09 23:54:32,229 - root - INFO - 0 records sent to server
+2021-10-09 23:54:37,245 - root - INFO - 0 records sent to server
+2021-10-09 23:54:42,264 - root - INFO - 0 records sent to server
+2021-10-09 23:54:47,278 - root - INFO - 0 records sent to server
+2021-10-09 23:54:52,296 - root - INFO - 0 records sent to server
+2021-10-09 23:54:57,312 - root - INFO - 0 records sent to server
+2021-10-09 23:55:02,325 - root - INFO - 0 records sent to server
+2021-10-09 23:55:07,339 - root - INFO - 0 records sent to server
+2021-10-09 23:55:12,353 - root - INFO - 0 records sent to server
+2021-10-09 23:55:17,365 - root - INFO - 0 records sent to server
+2021-10-09 23:55:22,375 - root - INFO - 0 records sent to server
+2021-10-09 23:55:27,382 - root - INFO - 0 records sent to server
+2021-10-09 23:55:32,389 - root - INFO - 0 records sent to server
+2021-10-09 23:55:37,405 - root - INFO - 0 records sent to server
+2021-10-09 23:55:42,422 - root - INFO - 0 records sent to server
+2021-10-09 23:55:47,438 - root - INFO - 0 records sent to server
+2021-10-09 23:55:52,448 - root - INFO - 0 records sent to server
+2021-10-09 23:55:57,468 - root - INFO - 0 records sent to server
+2021-10-09 23:56:02,481 - root - INFO - 0 records sent to server
+2021-10-09 23:56:07,495 - root - INFO - 0 records sent to server
+2021-10-09 23:56:12,513 - root - INFO - 0 records sent to server
+2021-10-09 23:56:17,535 - root - INFO - 0 records sent to server
+2021-10-09 23:56:22,553 - root - INFO - 0 records sent to server
+2021-10-09 23:56:27,566 - root - INFO - 0 records sent to server
+2021-10-09 23:56:32,586 - root - INFO - 0 records sent to server
+2021-10-09 23:56:37,597 - root - INFO - 0 records sent to server
+2021-10-09 23:56:42,608 - root - INFO - 0 records sent to server
+2021-10-09 23:56:47,624 - root - INFO - 0 records sent to server
+2021-10-09 23:56:52,633 - root - INFO - 0 records sent to server
+2021-10-09 23:56:57,649 - root - INFO - 0 records sent to server
+2021-10-09 23:57:02,662 - root - INFO - 0 records sent to server
+2021-10-09 23:57:07,670 - root - INFO - 0 records sent to server
+2021-10-09 23:57:12,676 - root - INFO - 0 records sent to server
+2021-10-09 23:57:17,690 - root - INFO - 0 records sent to server
+2021-10-09 23:57:22,697 - root - INFO - 0 records sent to server
+2021-10-09 23:57:27,713 - root - INFO - 0 records sent to server
+2021-10-09 23:57:32,725 - root - INFO - 0 records sent to server
+2021-10-09 23:57:37,738 - root - INFO - 0 records sent to server
+2021-10-09 23:57:42,758 - root - INFO - 0 records sent to server
+2021-10-09 23:57:47,771 - root - INFO - 0 records sent to server
+2021-10-09 23:57:52,792 - root - INFO - 0 records sent to server
+2021-10-09 23:57:57,804 - root - INFO - 0 records sent to server
+2021-10-09 23:58:02,817 - root - INFO - 0 records sent to server
+2021-10-09 23:58:07,835 - root - INFO - 0 records sent to server
+2021-10-09 23:58:12,844 - root - INFO - 0 records sent to server
+2021-10-09 23:58:17,863 - root - INFO - 0 records sent to server
+2021-10-09 23:58:22,872 - root - INFO - 0 records sent to server
+2021-10-09 23:58:27,892 - root - INFO - 0 records sent to server
+2021-10-09 23:58:32,908 - root - INFO - 0 records sent to server
+2021-10-09 23:58:37,931 - root - INFO - 0 records sent to server
+2021-10-09 23:58:42,938 - root - INFO - 0 records sent to server
+2021-10-09 23:58:47,946 - root - INFO - 0 records sent to server
+2021-10-09 23:58:52,968 - root - INFO - 0 records sent to server
+2021-10-09 23:58:57,989 - root - INFO - 0 records sent to server
+2021-10-09 23:59:03,000 - root - INFO - 0 records sent to server
+2021-10-09 23:59:08,012 - root - INFO - 0 records sent to server
+2021-10-09 23:59:13,026 - root - INFO - 0 records sent to server
+2021-10-09 23:59:18,047 - root - INFO - 0 records sent to server
+2021-10-09 23:59:23,060 - root - INFO - 0 records sent to server
+2021-10-09 23:59:28,080 - root - INFO - 0 records sent to server
+2021-10-09 23:59:33,089 - root - INFO - 0 records sent to server
+2021-10-09 23:59:38,105 - root - INFO - 0 records sent to server
+2021-10-09 23:59:43,119 - root - INFO - 0 records sent to server
+2021-10-09 23:59:48,131 - root - INFO - 0 records sent to server
+2021-10-09 23:59:53,150 - root - INFO - 0 records sent to server
+2021-10-09 23:59:58,171 - root - INFO - 0 records sent to server
+2021-10-10 00:00:03,189 - root - INFO - 0 records sent to server
+2021-10-10 00:00:08,196 - root - INFO - 0 records sent to server
+2021-10-10 00:00:13,217 - root - INFO - 0 records sent to server
+2021-10-10 00:00:18,226 - root - INFO - 0 records sent to server
+2021-10-10 00:00:23,245 - root - INFO - 0 records sent to server
+2021-10-10 00:00:28,263 - root - INFO - 0 records sent to server
+2021-10-10 00:00:33,278 - root - INFO - 0 records sent to server
+2021-10-10 00:00:38,288 - root - INFO - 0 records sent to server
+2021-10-10 00:00:43,304 - root - INFO - 0 records sent to server
+2021-10-10 00:00:48,320 - root - INFO - 0 records sent to server
+2021-10-10 00:00:53,327 - root - INFO - 0 records sent to server
+2021-10-10 00:00:58,338 - root - INFO - 0 records sent to server
+2021-10-10 00:01:03,358 - root - INFO - 0 records sent to server
+2021-10-10 00:01:08,374 - root - INFO - 0 records sent to server
+2021-10-10 00:01:13,392 - root - INFO - 0 records sent to server
+2021-10-10 00:01:18,411 - root - INFO - 0 records sent to server
+2021-10-10 00:01:23,423 - root - INFO - 0 records sent to server
+2021-10-10 00:01:28,434 - root - INFO - 0 records sent to server
+2021-10-10 00:01:33,450 - root - INFO - 0 records sent to server
+2021-10-10 00:01:38,465 - root - INFO - 0 records sent to server
+2021-10-10 00:01:43,481 - root - INFO - 0 records sent to server
+2021-10-10 00:01:48,501 - root - INFO - 0 records sent to server
+2021-10-10 00:01:53,515 - root - INFO - 0 records sent to server
+2021-10-10 00:01:58,521 - root - INFO - 0 records sent to server
+2021-10-10 00:02:03,544 - root - INFO - 0 records sent to server
+2021-10-10 00:02:08,556 - root - INFO - 0 records sent to server
+2021-10-10 00:02:13,576 - root - INFO - 0 records sent to server
+2021-10-10 00:02:18,592 - root - INFO - 0 records sent to server
+2021-10-10 00:02:23,612 - root - INFO - 0 records sent to server
+2021-10-10 00:02:28,622 - root - INFO - 0 records sent to server
+2021-10-10 00:02:33,645 - root - INFO - 0 records sent to server
+2021-10-10 00:02:38,653 - root - INFO - 0 records sent to server
+2021-10-10 00:02:43,668 - root - INFO - 0 records sent to server
+2021-10-10 00:02:48,683 - root - INFO - 0 records sent to server
+2021-10-10 00:02:53,693 - root - INFO - 0 records sent to server
+2021-10-10 00:02:58,704 - root - INFO - 0 records sent to server
+2021-10-10 00:03:03,719 - root - INFO - 0 records sent to server
+2021-10-10 00:03:08,737 - root - INFO - 0 records sent to server
+2021-10-10 00:03:13,753 - root - INFO - 0 records sent to server
+2021-10-10 00:03:18,767 - root - INFO - 0 records sent to server
+2021-10-10 00:03:23,785 - root - INFO - 0 records sent to server
+2021-10-10 00:03:28,805 - root - INFO - 0 records sent to server
+2021-10-10 00:03:33,814 - root - INFO - 0 records sent to server
+2021-10-10 00:03:38,830 - root - INFO - 0 records sent to server
+2021-10-10 00:03:43,848 - root - INFO - 0 records sent to server
+2021-10-10 00:03:48,863 - root - INFO - 0 records sent to server
+2021-10-10 00:03:53,880 - root - INFO - 0 records sent to server
+2021-10-10 00:03:58,898 - root - INFO - 0 records sent to server
+2021-10-10 00:04:03,913 - root - INFO - 0 records sent to server
+2021-10-10 00:04:08,929 - root - INFO - 0 records sent to server
+2021-10-10 00:04:13,942 - root - INFO - 0 records sent to server
+2021-10-10 00:04:18,957 - root - INFO - 0 records sent to server
+2021-10-10 00:04:23,970 - root - INFO - 0 records sent to server
+2021-10-10 00:04:28,983 - root - INFO - 0 records sent to server
+2021-10-10 00:04:33,998 - root - INFO - 0 records sent to server
+2021-10-10 00:04:39,016 - root - INFO - 0 records sent to server
+2021-10-10 00:04:44,025 - root - INFO - 0 records sent to server
+2021-10-10 00:04:49,031 - root - INFO - 0 records sent to server
+2021-10-10 00:04:54,049 - root - INFO - 0 records sent to server
+2021-10-10 00:04:59,058 - root - INFO - 0 records sent to server
+2021-10-10 00:05:04,073 - root - INFO - 0 records sent to server
+2021-10-10 00:05:09,090 - root - INFO - 0 records sent to server
+2021-10-10 00:05:14,103 - root - INFO - 0 records sent to server
+2021-10-10 00:05:19,118 - root - INFO - 0 records sent to server
+2021-10-10 00:05:24,140 - root - INFO - 0 records sent to server
+2021-10-10 00:05:29,153 - root - INFO - 0 records sent to server
+2021-10-10 00:05:34,173 - root - INFO - 0 records sent to server
+2021-10-10 00:05:39,184 - root - INFO - 0 records sent to server
+2021-10-10 00:05:44,194 - root - INFO - 0 records sent to server
+2021-10-10 00:05:49,209 - root - INFO - 0 records sent to server
+2021-10-10 00:05:54,219 - root - INFO - 0 records sent to server
+2021-10-10 00:05:59,241 - root - INFO - 0 records sent to server
+2021-10-10 00:06:04,249 - root - INFO - 0 records sent to server
+2021-10-10 00:06:09,260 - root - INFO - 0 records sent to server
+2021-10-10 00:06:14,273 - root - INFO - 0 records sent to server
+2021-10-10 00:06:19,291 - root - INFO - 0 records sent to server
+2021-10-10 00:06:24,299 - root - INFO - 0 records sent to server
+2021-10-10 00:06:29,308 - root - INFO - 0 records sent to server
+2021-10-10 00:06:34,324 - root - INFO - 0 records sent to server
+2021-10-10 00:06:39,343 - root - INFO - 0 records sent to server
+2021-10-10 00:06:44,359 - root - INFO - 0 records sent to server
+2021-10-10 00:06:49,373 - root - INFO - 0 records sent to server
+2021-10-10 00:06:54,394 - root - INFO - 0 records sent to server
+2021-10-10 00:06:59,410 - root - INFO - 0 records sent to server
+2021-10-10 00:07:04,431 - root - INFO - 0 records sent to server
+2021-10-10 00:07:09,449 - root - INFO - 0 records sent to server
+2021-10-10 00:07:14,463 - root - INFO - 0 records sent to server
+2021-10-10 00:07:19,481 - root - INFO - 0 records sent to server
+2021-10-10 00:07:24,492 - root - INFO - 0 records sent to server
+2021-10-10 00:07:29,513 - root - INFO - 0 records sent to server
+2021-10-10 00:07:34,529 - root - INFO - 0 records sent to server
+2021-10-10 00:07:39,548 - root - INFO - 0 records sent to server
+2021-10-10 00:07:44,559 - root - INFO - 0 records sent to server
+2021-10-10 00:07:49,581 - root - INFO - 0 records sent to server
+2021-10-10 00:07:54,603 - root - INFO - 0 records sent to server
+2021-10-10 00:07:59,626 - root - INFO - 0 records sent to server
+2021-10-10 00:08:04,638 - root - INFO - 0 records sent to server
+2021-10-10 00:08:09,654 - root - INFO - 0 records sent to server
+2021-10-10 00:08:14,670 - root - INFO - 0 records sent to server
+2021-10-10 00:08:19,686 - root - INFO - 0 records sent to server
+2021-10-10 00:08:24,696 - root - INFO - 0 records sent to server
+2021-10-10 00:08:29,705 - root - INFO - 0 records sent to server
+2021-10-10 00:08:34,713 - root - INFO - 0 records sent to server
+2021-10-10 00:08:39,734 - root - INFO - 0 records sent to server
+2021-10-10 00:08:44,750 - root - INFO - 0 records sent to server
+2021-10-10 00:08:49,768 - root - INFO - 0 records sent to server
+2021-10-10 00:08:54,775 - root - INFO - 0 records sent to server
+2021-10-10 00:08:59,785 - root - INFO - 0 records sent to server
+2021-10-10 00:09:04,807 - root - INFO - 0 records sent to server
+2021-10-10 00:09:09,822 - root - INFO - 0 records sent to server
+2021-10-10 00:09:14,839 - root - INFO - 0 records sent to server
+2021-10-10 00:09:19,856 - root - INFO - 0 records sent to server
+2021-10-10 00:09:24,872 - root - INFO - 0 records sent to server
+2021-10-10 00:09:29,878 - root - INFO - 0 records sent to server
+2021-10-10 00:09:34,885 - root - INFO - 0 records sent to server
+2021-10-10 00:09:39,904 - root - INFO - 0 records sent to server
+2021-10-10 00:09:44,925 - root - INFO - 0 records sent to server
+2021-10-10 00:09:49,937 - root - INFO - 0 records sent to server
+2021-10-10 00:09:54,958 - root - INFO - 0 records sent to server
+2021-10-10 00:09:59,966 - root - INFO - 0 records sent to server
+2021-10-10 00:10:04,986 - root - INFO - 0 records sent to server
+2021-10-10 00:10:09,995 - root - INFO - 0 records sent to server
+2021-10-10 00:10:15,006 - root - INFO - 0 records sent to server
+2021-10-10 00:10:20,018 - root - INFO - 0 records sent to server
+2021-10-10 00:10:25,025 - root - INFO - 0 records sent to server
+2021-10-10 00:10:30,047 - root - INFO - 0 records sent to server
+2021-10-10 00:10:35,060 - root - INFO - 0 records sent to server
+2021-10-10 00:10:40,065 - root - INFO - 0 records sent to server
+2021-10-10 00:10:45,071 - root - INFO - 0 records sent to server
+2021-10-10 00:10:50,088 - root - INFO - 0 records sent to server
+2021-10-10 00:10:55,096 - root - INFO - 0 records sent to server
+2021-10-10 00:11:00,117 - root - INFO - 0 records sent to server
+2021-10-10 00:11:05,130 - root - INFO - 0 records sent to server
+2021-10-10 00:11:10,139 - root - INFO - 0 records sent to server
+2021-10-10 00:11:15,159 - root - INFO - 0 records sent to server
+2021-10-10 00:11:20,178 - root - INFO - 0 records sent to server
+2021-10-10 00:11:25,189 - root - INFO - 0 records sent to server
+2021-10-10 00:11:30,204 - root - INFO - 0 records sent to server
+2021-10-10 00:11:35,218 - root - INFO - 0 records sent to server
+2021-10-10 00:11:40,232 - root - INFO - 0 records sent to server
+2021-10-10 00:11:45,245 - root - INFO - 0 records sent to server
+2021-10-10 00:11:50,258 - root - INFO - 0 records sent to server
+2021-10-10 00:11:55,276 - root - INFO - 0 records sent to server
+2021-10-10 00:12:00,287 - root - INFO - 0 records sent to server
+2021-10-10 00:12:05,305 - root - INFO - 0 records sent to server
+2021-10-10 00:12:10,312 - root - INFO - 0 records sent to server
+2021-10-10 00:12:15,323 - root - INFO - 0 records sent to server
+2021-10-10 00:12:20,345 - root - INFO - 0 records sent to server
+2021-10-10 00:12:25,363 - root - INFO - 0 records sent to server
+2021-10-10 00:12:30,377 - root - INFO - 0 records sent to server
+2021-10-10 00:12:35,396 - root - INFO - 0 records sent to server
+2021-10-10 00:12:40,412 - root - INFO - 0 records sent to server
+2021-10-10 00:12:45,422 - root - INFO - 0 records sent to server
+2021-10-10 00:12:50,438 - root - INFO - 0 records sent to server
+2021-10-10 00:12:55,454 - root - INFO - 0 records sent to server
+2021-10-10 00:13:00,467 - root - INFO - 0 records sent to server
+2021-10-10 00:13:05,480 - root - INFO - 0 records sent to server
+2021-10-10 00:13:10,498 - root - INFO - 0 records sent to server
+2021-10-10 00:13:15,515 - root - INFO - 0 records sent to server
+2021-10-10 00:13:20,532 - root - INFO - 0 records sent to server
+2021-10-10 00:13:25,551 - root - INFO - 0 records sent to server
+2021-10-10 00:13:30,569 - root - INFO - 0 records sent to server
+2021-10-10 00:13:35,582 - root - INFO - 0 records sent to server
+2021-10-10 00:13:40,597 - root - INFO - 0 records sent to server
+2021-10-10 00:13:45,606 - root - INFO - 0 records sent to server
+2021-10-10 00:13:50,624 - root - INFO - 0 records sent to server
+2021-10-10 00:13:55,637 - root - INFO - 0 records sent to server
+2021-10-10 00:14:00,658 - root - INFO - 0 records sent to server
+2021-10-10 00:14:05,675 - root - INFO - 0 records sent to server
+2021-10-10 00:14:10,681 - root - INFO - 0 records sent to server
+2021-10-10 00:14:15,690 - root - INFO - 0 records sent to server
+2021-10-10 00:14:20,704 - root - INFO - 0 records sent to server
+2021-10-10 00:14:25,723 - root - INFO - 0 records sent to server
+2021-10-10 00:14:30,735 - root - INFO - 0 records sent to server
+2021-10-10 00:14:35,753 - root - INFO - 0 records sent to server
+2021-10-10 00:14:40,773 - root - INFO - 0 records sent to server
+2021-10-10 00:14:45,795 - root - INFO - 0 records sent to server
+2021-10-10 00:14:50,814 - root - INFO - 0 records sent to server
+2021-10-10 00:14:55,829 - root - INFO - 0 records sent to server
+2021-10-10 00:15:00,846 - root - INFO - 0 records sent to server
+2021-10-10 00:15:05,853 - root - INFO - 0 records sent to server
+2021-10-10 00:15:10,862 - root - INFO - 0 records sent to server
+2021-10-10 00:15:15,879 - root - INFO - 0 records sent to server
+2021-10-10 00:15:20,896 - root - INFO - 0 records sent to server
+2021-10-10 00:15:25,905 - root - INFO - 0 records sent to server
+2021-10-10 00:15:30,924 - root - INFO - 0 records sent to server
+2021-10-10 00:15:35,943 - root - INFO - 0 records sent to server
+2021-10-10 00:15:40,955 - root - INFO - 0 records sent to server
+2021-10-10 00:15:45,966 - root - INFO - 0 records sent to server
+2021-10-10 00:15:50,987 - root - INFO - 0 records sent to server
+2021-10-10 00:15:55,997 - root - INFO - 0 records sent to server
+2021-10-10 00:16:01,012 - root - INFO - 0 records sent to server
+2021-10-10 00:16:06,023 - root - INFO - 0 records sent to server
+2021-10-10 00:16:11,032 - root - INFO - 0 records sent to server
+2021-10-10 00:16:16,046 - root - INFO - 0 records sent to server
+2021-10-10 00:16:21,062 - root - INFO - 0 records sent to server
+2021-10-10 00:16:26,072 - root - INFO - 0 records sent to server
+2021-10-10 00:16:31,083 - root - INFO - 0 records sent to server
+2021-10-10 00:16:36,104 - root - INFO - 0 records sent to server
+2021-10-10 00:16:41,122 - root - INFO - 0 records sent to server
+2021-10-10 00:16:46,139 - root - INFO - 0 records sent to server
+2021-10-10 00:16:51,150 - root - INFO - 0 records sent to server
+2021-10-10 00:16:56,160 - root - INFO - 0 records sent to server
+2021-10-10 00:17:01,174 - root - INFO - 0 records sent to server
+2021-10-10 00:17:06,185 - root - INFO - 0 records sent to server
+2021-10-10 00:17:11,202 - root - INFO - 0 records sent to server
+2021-10-10 00:17:16,223 - root - INFO - 0 records sent to server
+2021-10-10 00:17:21,232 - root - INFO - 0 records sent to server
+2021-10-10 00:17:26,244 - root - INFO - 0 records sent to server
+2021-10-10 00:17:31,264 - root - INFO - 0 records sent to server
+2021-10-10 00:17:36,278 - root - INFO - 0 records sent to server
+2021-10-10 00:17:41,291 - root - INFO - 0 records sent to server
+2021-10-10 00:17:46,301 - root - INFO - 0 records sent to server
+2021-10-10 00:17:51,317 - root - INFO - 0 records sent to server
+2021-10-10 00:17:56,327 - root - INFO - 0 records sent to server
+2021-10-10 00:18:01,337 - root - INFO - 0 records sent to server
+2021-10-10 00:18:06,356 - root - INFO - 0 records sent to server
+2021-10-10 00:18:11,378 - root - INFO - 0 records sent to server
+2021-10-10 00:18:16,392 - root - INFO - 0 records sent to server
+2021-10-10 00:18:21,407 - root - INFO - 0 records sent to server
+2021-10-10 00:18:26,418 - root - INFO - 0 records sent to server
+2021-10-10 00:18:31,438 - root - INFO - 0 records sent to server
+2021-10-10 00:18:36,459 - root - INFO - 0 records sent to server
+2021-10-10 00:18:41,469 - root - INFO - 0 records sent to server
+2021-10-10 00:18:46,487 - root - INFO - 0 records sent to server
+2021-10-10 00:18:51,504 - root - INFO - 0 records sent to server
+2021-10-10 00:18:56,525 - root - INFO - 0 records sent to server
+2021-10-10 00:19:01,541 - root - INFO - 0 records sent to server
+2021-10-10 00:19:06,565 - root - INFO - 0 records sent to server
+2021-10-10 00:19:11,574 - root - INFO - 0 records sent to server
+2021-10-10 00:19:16,594 - root - INFO - 0 records sent to server
+2021-10-10 00:19:21,605 - root - INFO - 0 records sent to server
+2021-10-10 00:19:26,617 - root - INFO - 0 records sent to server
+2021-10-10 00:19:31,624 - root - INFO - 0 records sent to server
+2021-10-10 00:19:36,637 - root - INFO - 0 records sent to server
+2021-10-10 00:19:41,654 - root - INFO - 0 records sent to server
+2021-10-10 00:19:46,666 - root - INFO - 0 records sent to server
+2021-10-10 00:19:51,673 - root - INFO - 0 records sent to server
+2021-10-10 00:19:56,685 - root - INFO - 0 records sent to server
+2021-10-10 00:20:01,693 - root - INFO - 0 records sent to server
+2021-10-10 00:20:06,715 - root - INFO - 0 records sent to server
+2021-10-10 00:20:11,723 - root - INFO - 0 records sent to server
+2021-10-10 00:20:16,736 - root - INFO - 0 records sent to server
+2021-10-10 00:20:21,757 - root - INFO - 0 records sent to server
+2021-10-10 00:20:26,765 - root - INFO - 0 records sent to server
+2021-10-10 00:20:31,775 - root - INFO - 0 records sent to server
+2021-10-10 00:20:36,780 - root - INFO - 0 records sent to server
+2021-10-10 00:20:41,799 - root - INFO - 0 records sent to server
+2021-10-10 00:20:46,813 - root - INFO - 0 records sent to server
+2021-10-10 00:20:51,835 - root - INFO - 0 records sent to server
+2021-10-10 00:20:56,845 - root - INFO - 0 records sent to server
+2021-10-10 00:21:01,852 - root - INFO - 0 records sent to server
+2021-10-10 00:21:06,866 - root - INFO - 0 records sent to server
+2021-10-10 00:21:11,879 - root - INFO - 0 records sent to server
+2021-10-10 00:21:16,897 - root - INFO - 0 records sent to server
+2021-10-10 00:21:21,903 - root - INFO - 0 records sent to server
+2021-10-10 00:21:26,921 - root - INFO - 0 records sent to server
+2021-10-10 00:21:31,930 - root - INFO - 0 records sent to server
+2021-10-10 00:21:36,950 - root - INFO - 0 records sent to server
+2021-10-10 00:21:41,962 - root - INFO - 0 records sent to server
+2021-10-10 00:21:46,975 - root - INFO - 0 records sent to server
+2021-10-10 00:21:51,988 - root - INFO - 0 records sent to server
+2021-10-10 00:21:57,006 - root - INFO - 0 records sent to server
+2021-10-10 00:22:02,025 - root - INFO - 0 records sent to server
+2021-10-10 00:22:07,033 - root - INFO - 0 records sent to server
+2021-10-10 00:22:12,037 - root - INFO - 0 records sent to server
+2021-10-10 00:22:17,056 - root - INFO - 0 records sent to server
+2021-10-10 00:22:22,078 - root - INFO - 0 records sent to server
+2021-10-10 00:22:27,090 - root - INFO - 0 records sent to server
+2021-10-10 00:22:32,106 - root - INFO - 0 records sent to server
+2021-10-10 00:22:37,117 - root - INFO - 0 records sent to server
+2021-10-10 00:22:42,129 - root - INFO - 0 records sent to server
+2021-10-10 00:22:47,136 - root - INFO - 0 records sent to server
+2021-10-10 00:22:52,151 - root - INFO - 0 records sent to server
+2021-10-10 00:22:57,164 - root - INFO - 0 records sent to server
+2021-10-10 00:23:02,171 - root - INFO - 0 records sent to server
+2021-10-10 00:23:07,187 - root - INFO - 0 records sent to server
+2021-10-10 00:23:12,198 - root - INFO - 0 records sent to server
+2021-10-10 00:23:17,215 - root - INFO - 0 records sent to server
+2021-10-10 00:23:22,232 - root - INFO - 0 records sent to server
+2021-10-10 00:23:27,248 - root - INFO - 0 records sent to server
+2021-10-10 00:23:32,261 - root - INFO - 0 records sent to server
+2021-10-10 00:23:37,269 - root - INFO - 0 records sent to server
+2021-10-10 00:23:42,275 - root - INFO - 0 records sent to server
+2021-10-10 00:23:47,294 - root - INFO - 0 records sent to server
+2021-10-10 00:23:52,308 - root - INFO - 0 records sent to server
+2021-10-10 00:23:57,324 - root - INFO - 0 records sent to server
+2021-10-10 00:24:02,340 - root - INFO - 0 records sent to server
+2021-10-10 00:24:07,352 - root - INFO - 0 records sent to server
+2021-10-10 00:24:12,368 - root - INFO - 0 records sent to server
+2021-10-10 00:24:17,387 - root - INFO - 0 records sent to server
+2021-10-10 00:24:22,409 - root - INFO - 0 records sent to server
+2021-10-10 00:24:27,428 - root - INFO - 0 records sent to server
+2021-10-10 00:24:32,444 - root - INFO - 0 records sent to server
+2021-10-10 00:24:37,458 - root - INFO - 0 records sent to server
+2021-10-10 00:24:42,480 - root - INFO - 0 records sent to server
+2021-10-10 00:24:47,500 - root - INFO - 0 records sent to server
+2021-10-10 00:24:52,506 - root - INFO - 0 records sent to server
+2021-10-10 00:24:57,526 - root - INFO - 0 records sent to server
+2021-10-10 00:25:02,542 - root - INFO - 0 records sent to server
+2021-10-10 00:25:07,553 - root - INFO - 0 records sent to server
+2021-10-10 00:25:12,567 - root - INFO - 0 records sent to server
+2021-10-10 00:25:17,576 - root - INFO - 0 records sent to server
+2021-10-10 00:25:22,591 - root - INFO - 0 records sent to server
+2021-10-10 00:25:27,600 - root - INFO - 0 records sent to server
+2021-10-10 00:25:32,621 - root - INFO - 0 records sent to server
+2021-10-10 00:25:37,639 - root - INFO - 0 records sent to server
+2021-10-10 00:25:42,646 - root - INFO - 0 records sent to server
+2021-10-10 00:25:47,655 - root - INFO - 0 records sent to server
+2021-10-10 00:25:52,663 - root - INFO - 0 records sent to server
+2021-10-10 00:25:57,679 - root - INFO - 0 records sent to server
+2021-10-10 00:26:02,688 - root - INFO - 0 records sent to server
+2021-10-10 00:26:07,701 - root - INFO - 0 records sent to server
+2021-10-10 00:26:12,713 - root - INFO - 0 records sent to server
+2021-10-10 00:26:17,721 - root - INFO - 0 records sent to server
+2021-10-10 00:26:22,735 - root - INFO - 0 records sent to server
+2021-10-10 00:26:27,751 - root - INFO - 0 records sent to server
+2021-10-10 00:26:32,770 - root - INFO - 0 records sent to server
+2021-10-10 00:26:37,780 - root - INFO - 0 records sent to server
+2021-10-10 00:26:42,794 - root - INFO - 0 records sent to server
+2021-10-10 00:26:47,810 - root - INFO - 0 records sent to server
+2021-10-10 00:26:52,825 - root - INFO - 0 records sent to server
+2021-10-10 00:26:57,835 - root - INFO - 0 records sent to server
+2021-10-10 00:27:02,854 - root - INFO - 0 records sent to server
+2021-10-10 00:27:07,861 - root - INFO - 0 records sent to server
+2021-10-10 00:27:12,880 - root - INFO - 0 records sent to server
+2021-10-10 00:27:17,902 - root - INFO - 0 records sent to server
+2021-10-10 00:27:22,911 - root - INFO - 0 records sent to server
+2021-10-10 00:27:27,930 - root - INFO - 0 records sent to server
+2021-10-10 00:27:32,942 - root - INFO - 0 records sent to server
+2021-10-10 00:27:37,951 - root - INFO - 0 records sent to server
+2021-10-10 00:27:42,972 - root - INFO - 0 records sent to server
+2021-10-10 00:27:47,992 - root - INFO - 0 records sent to server
+2021-10-10 00:27:53,010 - root - INFO - 0 records sent to server
+2021-10-10 00:27:58,021 - root - INFO - 0 records sent to server
+2021-10-10 00:28:03,042 - root - INFO - 0 records sent to server
+2021-10-10 00:28:08,050 - root - INFO - 0 records sent to server
+2021-10-10 00:28:13,067 - root - INFO - 0 records sent to server
+2021-10-10 00:28:18,081 - root - INFO - 0 records sent to server
+2021-10-10 00:28:23,090 - root - INFO - 0 records sent to server
+2021-10-10 00:28:28,107 - root - INFO - 0 records sent to server
+2021-10-10 00:28:33,120 - root - INFO - 0 records sent to server
+2021-10-10 00:28:38,135 - root - INFO - 0 records sent to server
+2021-10-10 00:28:43,141 - root - INFO - 0 records sent to server
+2021-10-10 00:28:48,155 - root - INFO - 0 records sent to server
+2021-10-10 00:28:53,162 - root - INFO - 0 records sent to server
+2021-10-10 00:28:58,180 - root - INFO - 0 records sent to server
+2021-10-10 00:29:03,195 - root - INFO - 0 records sent to server
+2021-10-10 00:29:08,204 - root - INFO - 0 records sent to server
+2021-10-10 00:29:13,218 - root - INFO - 0 records sent to server
+2021-10-10 00:29:18,225 - root - INFO - 0 records sent to server
+2021-10-10 00:29:23,242 - root - INFO - 0 records sent to server
+2021-10-10 00:29:28,257 - root - INFO - 0 records sent to server
+2021-10-10 00:29:33,275 - root - INFO - 0 records sent to server
+2021-10-10 00:29:38,297 - root - INFO - 0 records sent to server
+2021-10-10 00:29:43,308 - root - INFO - 0 records sent to server
+2021-10-10 00:29:48,323 - root - INFO - 0 records sent to server
+2021-10-10 00:29:53,341 - root - INFO - 0 records sent to server
+2021-10-10 00:29:58,354 - root - INFO - 0 records sent to server
+2021-10-10 00:30:03,364 - root - INFO - 0 records sent to server
+2021-10-10 00:30:08,382 - root - INFO - 0 records sent to server
+2021-10-10 00:30:13,397 - root - INFO - 0 records sent to server
+2021-10-10 00:30:18,418 - root - INFO - 0 records sent to server
+2021-10-10 00:30:23,438 - root - INFO - 0 records sent to server
+2021-10-10 00:30:28,457 - root - INFO - 0 records sent to server
+2021-10-10 00:30:33,473 - root - INFO - 0 records sent to server
+2021-10-10 00:30:38,486 - root - INFO - 0 records sent to server
+2021-10-10 00:30:43,497 - root - INFO - 0 records sent to server
+2021-10-10 00:30:48,514 - root - INFO - 0 records sent to server
+2021-10-10 00:30:53,531 - root - INFO - 0 records sent to server
+2021-10-10 00:30:58,543 - root - INFO - 0 records sent to server
+2021-10-10 00:31:03,560 - root - INFO - 0 records sent to server
+2021-10-10 00:31:08,570 - root - INFO - 0 records sent to server
+2021-10-10 00:31:13,590 - root - INFO - 0 records sent to server
+2021-10-10 00:31:18,601 - root - INFO - 0 records sent to server
+2021-10-10 00:31:23,614 - root - INFO - 0 records sent to server
+2021-10-10 00:31:28,632 - root - INFO - 0 records sent to server
+2021-10-10 00:31:33,643 - root - INFO - 0 records sent to server
+2021-10-10 00:31:38,650 - root - INFO - 0 records sent to server
+2021-10-10 00:31:43,659 - root - INFO - 0 records sent to server
+2021-10-10 00:31:48,672 - root - INFO - 0 records sent to server
+2021-10-10 00:31:53,692 - root - INFO - 0 records sent to server
+2021-10-10 00:31:58,714 - root - INFO - 0 records sent to server
+2021-10-10 00:32:03,725 - root - INFO - 0 records sent to server
+2021-10-10 00:32:08,740 - root - INFO - 0 records sent to server
+2021-10-10 00:32:13,753 - root - INFO - 0 records sent to server
+2021-10-10 00:32:18,775 - root - INFO - 0 records sent to server
+2021-10-10 00:32:23,796 - root - INFO - 0 records sent to server
+2021-10-10 00:32:28,815 - root - INFO - 0 records sent to server
+2021-10-10 00:32:33,825 - root - INFO - 0 records sent to server
+2021-10-10 00:32:38,834 - root - INFO - 0 records sent to server
+2021-10-10 00:32:43,855 - root - INFO - 0 records sent to server
+2021-10-10 00:32:48,876 - root - INFO - 0 records sent to server
+2021-10-10 00:32:53,889 - root - INFO - 0 records sent to server
+2021-10-10 00:32:58,906 - root - INFO - 0 records sent to server
+2021-10-10 00:33:03,923 - root - INFO - 0 records sent to server
+2021-10-10 00:33:08,934 - root - INFO - 0 records sent to server
+2021-10-10 00:33:13,945 - root - INFO - 0 records sent to server
+2021-10-10 00:33:18,953 - root - INFO - 0 records sent to server
+2021-10-10 00:33:23,966 - root - INFO - 0 records sent to server
+2021-10-10 00:33:28,971 - root - INFO - 0 records sent to server
+2021-10-10 00:33:33,988 - root - INFO - 0 records sent to server
+2021-10-10 00:33:39,007 - root - INFO - 0 records sent to server
+2021-10-10 00:33:44,023 - root - INFO - 0 records sent to server
+2021-10-10 00:33:49,040 - root - INFO - 0 records sent to server
+2021-10-10 00:33:54,053 - root - INFO - 0 records sent to server
+2021-10-10 00:33:59,065 - root - INFO - 0 records sent to server
+2021-10-10 00:34:04,074 - root - INFO - 0 records sent to server
+2021-10-10 00:34:09,086 - root - INFO - 0 records sent to server
+2021-10-10 00:34:14,099 - root - INFO - 0 records sent to server
+2021-10-10 00:34:19,105 - root - INFO - 0 records sent to server
+2021-10-10 00:34:24,114 - root - INFO - 0 records sent to server
+2021-10-10 00:34:27,567 - root - INFO - 0 records sent to server
+2021-10-10 00:34:32,578 - root - INFO - 0 records sent to server
+2021-10-10 00:34:37,587 - root - INFO - 0 records sent to server
+2021-10-10 00:34:42,599 - root - INFO - 0 records sent to server
+2021-10-10 00:34:47,618 - root - INFO - 0 records sent to server
+2021-10-10 00:34:52,625 - root - INFO - 0 records sent to server
+2021-10-10 00:34:57,647 - root - INFO - 0 records sent to server
+2021-10-10 00:35:02,669 - root - INFO - 0 records sent to server
+2021-10-10 00:35:07,682 - root - INFO - 0 records sent to server
+2021-10-10 00:35:12,690 - root - INFO - 0 records sent to server
+2021-10-10 00:35:17,709 - root - INFO - 0 records sent to server
+2021-10-10 00:35:22,721 - root - INFO - 0 records sent to server
+2021-10-10 00:35:27,738 - root - INFO - 0 records sent to server
+2021-10-10 00:35:32,746 - root - INFO - 0 records sent to server
+2021-10-10 00:35:37,751 - root - INFO - 0 records sent to server
+2021-10-10 00:35:42,760 - root - INFO - 0 records sent to server
+2021-10-10 00:35:47,777 - root - INFO - 0 records sent to server
+2021-10-10 00:35:52,795 - root - INFO - 0 records sent to server
+2021-10-10 00:35:57,813 - root - INFO - 0 records sent to server
+2021-10-10 00:36:02,819 - root - INFO - 0 records sent to server
+2021-10-10 00:36:07,830 - root - INFO - 0 records sent to server
+2021-10-10 00:36:12,844 - root - INFO - 0 records sent to server
+2021-10-10 00:36:17,853 - root - INFO - 0 records sent to server
+2021-10-10 00:36:22,871 - root - INFO - 0 records sent to server
+2021-10-10 00:36:27,876 - root - INFO - 0 records sent to server
+2021-10-10 00:36:32,881 - root - INFO - 0 records sent to server
+2021-10-10 00:36:37,895 - root - INFO - 0 records sent to server
+2021-10-10 00:36:42,900 - root - INFO - 0 records sent to server
+2021-10-10 00:36:47,921 - root - INFO - 0 records sent to server
+2021-10-10 00:36:52,929 - root - INFO - 0 records sent to server
+2021-10-10 00:36:57,945 - root - INFO - 0 records sent to server
+2021-10-10 00:37:02,954 - root - INFO - 0 records sent to server
+2021-10-10 00:37:07,964 - root - INFO - 0 records sent to server
+2021-10-10 00:37:12,985 - root - INFO - 0 records sent to server
+2021-10-10 00:37:18,004 - root - INFO - 0 records sent to server
+2021-10-10 00:37:23,018 - root - INFO - 0 records sent to server
+2021-10-10 00:37:28,025 - root - INFO - 0 records sent to server
+2021-10-10 00:37:33,039 - root - INFO - 0 records sent to server
+2021-10-10 00:37:38,045 - root - INFO - 0 records sent to server
+2021-10-10 00:37:43,060 - root - INFO - 0 records sent to server
+2021-10-10 00:37:48,068 - root - INFO - 0 records sent to server
+2021-10-10 00:37:53,079 - root - INFO - 0 records sent to server
+2021-10-10 00:37:58,098 - root - INFO - 0 records sent to server
+2021-10-10 00:38:03,119 - root - INFO - 0 records sent to server
+2021-10-10 00:38:08,132 - root - INFO - 0 records sent to server
+2021-10-10 00:38:13,142 - root - INFO - 0 records sent to server
+2021-10-10 00:38:18,154 - root - INFO - 0 records sent to server
+2021-10-10 00:38:23,160 - root - INFO - 0 records sent to server
+2021-10-10 00:38:28,180 - root - INFO - 0 records sent to server
+2021-10-10 00:38:33,198 - root - INFO - 0 records sent to server
+2021-10-10 00:38:38,219 - root - INFO - 0 records sent to server
+2021-10-10 00:38:43,231 - root - INFO - 0 records sent to server
+2021-10-10 00:38:48,244 - root - INFO - 0 records sent to server
+2021-10-10 00:38:53,252 - root - INFO - 0 records sent to server
+2021-10-10 00:38:58,269 - root - INFO - 0 records sent to server
+2021-10-10 00:39:03,279 - root - INFO - 0 records sent to server
+2021-10-10 00:39:08,294 - root - INFO - 0 records sent to server
+2021-10-10 00:39:13,311 - root - INFO - 0 records sent to server
+2021-10-10 00:39:18,333 - root - INFO - 0 records sent to server
+2021-10-10 00:39:23,339 - root - INFO - 0 records sent to server
+2021-10-10 00:39:28,358 - root - INFO - 0 records sent to server
+2021-10-10 00:39:33,370 - root - INFO - 0 records sent to server
+2021-10-10 00:39:38,386 - root - INFO - 0 records sent to server
+2021-10-10 00:39:43,401 - root - INFO - 0 records sent to server
+2021-10-10 00:39:48,419 - root - INFO - 0 records sent to server
+2021-10-10 00:39:53,434 - root - INFO - 0 records sent to server
+2021-10-10 00:39:58,452 - root - INFO - 0 records sent to server
+2021-10-10 00:40:03,467 - root - INFO - 0 records sent to server
+2021-10-10 00:40:08,482 - root - INFO - 0 records sent to server
+2021-10-10 00:40:13,502 - root - INFO - 0 records sent to server
+2021-10-10 00:40:18,509 - root - INFO - 0 records sent to server
+2021-10-10 00:40:23,523 - root - INFO - 0 records sent to server
+2021-10-10 00:40:28,544 - root - INFO - 0 records sent to server
+2021-10-10 00:40:33,564 - root - INFO - 0 records sent to server
+2021-10-10 00:40:38,582 - root - INFO - 0 records sent to server
+2021-10-10 00:40:43,597 - root - INFO - 0 records sent to server
+2021-10-10 00:40:48,616 - root - INFO - 0 records sent to server
+2021-10-10 00:40:53,629 - root - INFO - 0 records sent to server
+2021-10-10 00:40:58,640 - root - INFO - 0 records sent to server
+2021-10-10 00:41:03,659 - root - INFO - 0 records sent to server
+2021-10-10 00:41:08,672 - root - INFO - 0 records sent to server
+2021-10-10 00:41:13,686 - root - INFO - 0 records sent to server
+2021-10-10 00:41:18,701 - root - INFO - 0 records sent to server
+2021-10-10 00:41:23,715 - root - INFO - 0 records sent to server
+2021-10-10 00:41:28,736 - root - INFO - 0 records sent to server
+2021-10-10 00:41:33,755 - root - INFO - 0 records sent to server
+2021-10-10 00:41:38,767 - root - INFO - 0 records sent to server
+2021-10-10 00:41:43,783 - root - INFO - 0 records sent to server
+2021-10-10 00:41:48,801 - root - INFO - 0 records sent to server
+2021-10-10 00:41:53,807 - root - INFO - 0 records sent to server
+2021-10-10 00:41:58,829 - root - INFO - 0 records sent to server
+2021-10-10 00:42:03,840 - root - INFO - 0 records sent to server
+2021-10-10 00:42:08,853 - root - INFO - 0 records sent to server
+2021-10-10 00:42:13,865 - root - INFO - 0 records sent to server
+2021-10-10 00:42:18,877 - root - INFO - 0 records sent to server
+2021-10-10 00:42:23,889 - root - INFO - 0 records sent to server
+2021-10-10 00:42:28,899 - root - INFO - 0 records sent to server
+2021-10-10 00:42:33,910 - root - INFO - 0 records sent to server
+2021-10-10 00:42:38,926 - root - INFO - 0 records sent to server
+2021-10-10 00:42:43,947 - root - INFO - 0 records sent to server
+2021-10-10 00:42:48,958 - root - INFO - 0 records sent to server
+2021-10-10 00:42:53,969 - root - INFO - 0 records sent to server
+2021-10-10 00:42:58,987 - root - INFO - 0 records sent to server
+2021-10-10 00:43:04,006 - root - INFO - 0 records sent to server
+2021-10-10 00:43:09,022 - root - INFO - 0 records sent to server
+2021-10-10 00:43:14,038 - root - INFO - 0 records sent to server
+2021-10-10 00:43:19,057 - root - INFO - 0 records sent to server
+2021-10-10 00:43:24,068 - root - INFO - 0 records sent to server
+2021-10-10 00:43:29,083 - root - INFO - 0 records sent to server
+2021-10-10 00:43:34,091 - root - INFO - 0 records sent to server
+2021-10-10 00:43:39,097 - root - INFO - 0 records sent to server
+2021-10-10 00:43:44,104 - root - INFO - 0 records sent to server
+2021-10-10 00:43:49,118 - root - INFO - 0 records sent to server
+2021-10-10 00:43:54,132 - root - INFO - 0 records sent to server
+2021-10-10 00:43:59,149 - root - INFO - 0 records sent to server
+2021-10-10 00:44:04,156 - root - INFO - 0 records sent to server
+2021-10-10 00:44:09,172 - root - INFO - 0 records sent to server
+2021-10-10 00:44:14,184 - root - INFO - 0 records sent to server
+2021-10-10 00:44:19,186 - root - INFO - 0 records sent to server
+2021-10-10 00:44:20,802 - root - ERROR - Program is terminated by user
+2021-10-10 00:44:20,804 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-10 00:44:20,806 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-10 00:44:20,810 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connected> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Closing connection. 
+2021-10-10 00:44:20,825 - root - INFO - Writing Last ID 13221 to properties file
