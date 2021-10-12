@@ -16,7 +16,7 @@ class CoreThread:
     def __init__(self):
         try:
             self.logger = logging.getLogger()
-            self.logger.setLevel(logging.INFO)
+            self.logger.setLevel(logging.DEBUG)
 
             c_handler = logging.StreamHandler(sys.stdout)
             f_handler = logging.FileHandler('wturbine.log')
@@ -63,9 +63,12 @@ class CoreThread:
 
         #Init Kafka Producer
         try:
-            self.producer = KafkaProducer(bootstrap_servers=[self.KAFKA_URL],
-                                value_serializer=lambda x: 
-                                dumps(x).encode('utf-8'))           
+            # self.producer = KafkaProducer(bootstrap_servers=[self.KAFKA_URL],
+            #                     valuse_serializer=lambda x: 
+            #                     dumps(x).encode('utf-8'))     
+            producer = KafkaProducer(bootstrap_servers=[self.KAFKA_URL],
+                         value_serializer=lambda x: 
+                         dumps(x).encode('utf-8'))      
         except:
             self.logger.error("No Kafka Server is Available on "+self.KAFKA_URL+",program is terminated")
             exit()
@@ -81,7 +84,7 @@ class CoreThread:
                     for item in list:
                         try:        
                             jsonStr = json.dumps(item.__dict__,default=self.json_serial)
-                            self.producer.send(self.KAFKA_TOPIC, value=jsonStr)
+                            producer.send(self.KAFKA_TOPIC, value=jsonStr)
                             self.LAST_ID = item.ID  
                         except:
                             self.logger.info(f'Error in Sending Record with ID {item.id} , ignored')
